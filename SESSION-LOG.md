@@ -234,3 +234,14 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
 - Gem observation: tree gem payouts so far +4, +5, +1 (all small). The earlier +10 (2,843 -> 2,853) remains unexplained [UNKNOWN].
 - NOT done: Home Village pass and Gem Mine/Clock Tower re-check. Could not find the boat back to Home from the BB by panning (map drifted, no boat seen); stopped rather than guess-tap. B0 still 0/3, no countable circuit this session. Next: find the BB->Home route (probably zoom out first), then do the Home collectors.
 - Final state: BB, Gold 2,601,789, Elixir 1,909,983, Gems 2,854, builders 3/3, nothing selected; map panned off-center.
+
+## #23 — Scout, BB->Home route found + Home collector pass — 2026-11-14 (~12:40-12:45 PM PT)
+- Game had disconnected for inactivity ("Anyone there?"); pressed Reload Game, returned to the Builder Base, no cost.
+- BB collect (2nd pass): Gold 2,601,789 -> 2,604,852 (+3,063), Elixir 1,909,983 -> 1,913,046 (+3,063). Gems 2,854 unchanged.
+- ROUTE FOUND: the boat back to Home Village is a viking ship at a dock at the TOP-RIGHT of the Builder Base map (not lower-left). From the default BB view, drag the map so the base slides to the lower-left of the screen (manual mouse_down / several mouse_move / mouse_up works; left_click_drag is erratic), the boat appears on the water at the upper right, away from the Shop button. One tap on the boat went straight to Home Village (no confirm dialog).
+- Home before: Gold 18,016,642, Elixir 12,505,088, DE 92,265, gems 2,854, builders 6/6. Collected 15 collector bubbles (7 gold, 5 elixir, 3 DE).
+- Home after: Gold 18,183,868 (+167,226), Elixir 12,675,930 (+170,842), DE 94,008 (+1,743), gems 2,854. Treasury NOT pressed.
+- Mis-taps (no cost): a bubble click landed on a Wall (Level 17) and opened its upgrade menu (nothing pressed); my deselect tap at (300,560) hit the Battle button and opened the Battle menu (Find a Match not pressed), closed by tapping the village. Wall still selected at end (harmless). Lesson: the bottom-left UI sits over the map; deselect by tapping dead black ground well clear of UI, and re-screenshot after a batch of 15 clicks (UI can shift when a click selects something).
+- Navigation errors this circuit: 2 look-only mis-taps (wall select, Battle menu). So not a zero-error session; B0 still 0/3.
+- Not done: Gem Mine, Clock Tower recheck (cooldown until ~2026-11-15 09:25 PT), Loot Cart (absent per JJ earlier; not visible in the frame).
+- ChatGPT desktop app: switched Isaiah Plum -> dabbingyeetster supervised by JJ (JJ picked the account in his Chrome; my tools can't click Chrome). Steps: avatar menu -> Log out (confirm dialog) -> "Continue to sign in" opens the browser -> JJ picks the account. JJ reports dabbingyeetster 5-hour at 0%. Isaiah read 5-hour 3%, weekly 68%. Both near empty; no GPT delegation possible until the 5-hour reset (dabbingyeetster 3:07 PM PT).
