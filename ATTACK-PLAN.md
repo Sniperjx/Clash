@@ -209,7 +209,8 @@ it resolves a contradiction in the first draft, which put Q/RC both at the
 corners and at the center): pick an entry segment spanning ~60% of one edge.
 Queen and Royal Champion deploy at the OUTER CORNERS OF THAT SEGMENT as the
 funnel pair and STAY wide — they are not redeployed to the center. Dragons go
-down in two groups of 6 and 5 across the segment's span; Dragon Riders,
+down in two groups of 6 and 6 (12 total — Army of Record v1) across the
+segment's span; Dragon Riders,
 Balloons, Warden (air), and Minion Prince deploy at the CENTER, immediately
 behind the line. All seven spells keep their Series B jobs; the amended
 ability policy (core-entry W/MP, ~50-60% Queen, RC auto-by-default) and the
