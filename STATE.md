@@ -3,17 +3,24 @@
 **Update this file at the end of every session. It is the single source of truth for
 "where are we right now." If it goes stale, the next agent wastes a session.**
 
-Last updated: 2026-11-14 ~10:58 PT (Sol closeout — Series B complete, attack
-workstream closed for the turn; mirrored by Muse)
+Last updated: 2026-11-14 ~11:15 PT (Sol report — Terra pilot #12 settled and
+independently verified by Sol via Attack Log + Home; mirrored by Muse)
 
 ## Resources
 
 | Gold | Elixir | Dark Elixir | Gems |
 |---|---|---|---|
-| 7,712,116 | 6,660,631 | 32,093 | 2,833 |
+| 17,850,334 | 12,334,995 | 90,402 | 2,833 |
 
-(SB-5's settlement reconciles: Elixir and DE deltas match its loot exactly;
-Gold = loot - 1,600, the matchmaking entry fee. Home idle at closeout.)
+**Large unattributed UP drift before the Terra pilot:** between the Series B
+closeout (7,712,116 / 6,660,631 / 32,093) and the pilot's opening read
+(16,800,740 / 11,251,120 / 80,499), storages rose ~+9.1M G / +4.6M E / +48K DE
+with no agent action recorded — most plausibly JJ's own play; logged
+unattributed per the standing watch (up-only; any unexplained DECREASE
+escalates to JJ immediately). The pilot's own ledger reconciles EXACTLY
+(loot+bonus-entry fee to the digit on all three resources). Consequence:
+Firespitter #1 (8.5M G) is now affordable from storages alone, twice over;
+the Treasury question is moot for that purchase. Phoenix ~16h22m remaining.
 Treasury: two Star Bonus deliveries were OBSERVED via popups (after SB-2 and
 after SB-4), each 1,100,000 G / 1,100,000 E / 5,500 DE + ores — so 2.2M G banked
 is a RECEIPTS INFERENCE, not an inspected balance. The Treasury's current

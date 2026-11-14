@@ -7,9 +7,14 @@ PC working folder, reconcile — do not let the remote overwrite the local
 record:
 
 **Local wins (take the PC-local versions as authoritative):**
-- SESSION-LOG.md — the FULL log, including SB-4/SB-5 finals.
-- STATE.md — Sol's closeout snapshot (Home 7,712,116 G / 6,660,631 E /
-  32,093 DE / 2,833 gems; Phoenix ~16h46m remaining at snapshot).
+- SESSION-LOG.md — the FULL log, including SB-4/SB-5 finals AND session #12
+  (the Terra pilot — see HANDOFF-CLAUDE-2026-11-14.md in this repo for Fin's
+  assessment; Sol's local ATTACK-REVIEW carries the primary record).
+- STATE.md — the LATEST local top block supersedes all earlier snapshots:
+  after session #12, Home 17,850,334 G / 12,334,995 E / 90,402 DE / 2,833 gems
+  (Sol verified via Attack Log + Home), Phoenix ~16h22m remaining, and a large
+  unattributed UP drift before the pilot is logged in STATE — preserve that
+  note exactly.
 - ATTACK-PLAN.md — Sol's current authoritative blocks sit atop the local file.
 - ATTACK-REVIEW-2026-11-14.md — NEW local file (the dated Series B review);
   add it to the repo.
