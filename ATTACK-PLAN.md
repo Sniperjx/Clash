@@ -260,8 +260,14 @@ Conditions: 5 eligible Battles trials — unboosted, own spells only, no CC
 troops/spells, no siege; stable equipment, pets, and readiness across the
 series (any change voids comparability and is logged); every trial logged
 with base class, TH position, sweeper note, and ALL failures included.
-**Pass = the B2 bar on this clean set (>= 70% avg, >= 3 at 2+ stars), and a
-pass here is a B2 pass** — Tier 2 farming unlocks on it. Language discipline:
+**Pass = the B2 bar on this clean set (>= 70% avg, >= 3 at 2+ stars).**
+Governance of the pass (Fin ruling, 2026-11-14, reconciling this text with
+Sol's runbook wording): a clean pass IS a B2 pass, effective on Fin's audit
+of the five logged trials. The audit verifies the declared conditions
+(unboosted, own spells, no CC/siege, stable loadout, all failures logged) —
+it can fail the series only on a condition violation, never by re-judging
+attack quality after the fact. No promotion is "automatic" before that audit;
+no audit may become a second, discretionary judgment. Language discipline:
 even a pass earns only "B2 passed." A "reliable 2-star" claim additionally
 requires a comparable 10-trial window at >= 8 of 10 two-star results.
 Review splits strata as always.
