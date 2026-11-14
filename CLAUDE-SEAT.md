@@ -103,3 +103,9 @@ Runner-up risk, not in the top three: **Play Games window latency**. My own dire
 1. Whether "Sonnet direct, Haiku idle" counts as the legitimate default seat shape until A1 resolves.
 2. Whether AFK-0 may be proposed to JJ before Claude has B0 3/3, or only after.
 3. CHALLENGE-INVENTORY.md tier mapping (separate file, same branch).
+
+## Addendum A2-1 (2026-11-14, measured) — Haiku is a batch worker
+- [MEASURED] A1: 1 screen read by a Haiku subagent = 71,605 tokens (SESSION-LOG #15). P1-lite: 5 saved screenshots = 71,300 tokens (#17). The ~70k cold start dominates; marginal image cost is near zero.
+- Rule: a Haiku spawn must carry a circuit's worth of frames to pay for itself. Single reads stay Sonnet-direct.
+- [MEASURED] P1-lite accuracy 14/15 (93%) on game fields; the miss was a currency icon (Elixir read as Dark Elixir). Standing constraint (Fin ruling): any Haiku read involving currency icons or prices is re-verified by the seat before anything acts on it, whatever P1 eventually scores.
+- Still open: full P1 (10 live screens), A2 two-way circuit token count (subagent + seat), P2-P5.
