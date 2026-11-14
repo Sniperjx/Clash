@@ -251,3 +251,14 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
 - Attack Log contents (read, nothing pressed): J_Sully 100%/3 stars (751,194G/783,875E/7,803DE, 1h36m ago = Terra pilot), Nice seven 36%/0 stars (1h59m ago), sky 59%/2 stars (2h5m), BOREK 74%/2 stars (2h8m), more below. All with Replay buttons. So the Series B / Terra pilot battles ARE still replayable (answers Fin's replay-pilot gate). Defense Log also has replays (e.g. 3 stars at 19%, 2 stars at 98%, 3 stars at 100%).
 - Replays expire after a limited time [UNKNOWN exact]; record them soon if the Gemini pilot is to use them.
 - Earlier probes that were NOT the log: Trophy button (League panel), clan chat shield button, Profile tabs (My Profile / My Clan / Clans / Social / Inbox). Profile "My Clan" tab has Leave / Send Mail buttons; avoid.
+
+## #25 — Scout, replay timing run: J_Sully (look-only) — 2026-11-14 12:47-12:50 PM PT
+- Route used: Home > Battle > log icon (top-left of Battle card) > Attack Log > Replay (row 1). Exit: Return Home on the end screen.
+- TIMING [MEASURED, wall clock]: Replay pressed 12:47:54; end screen at about 12:49:20; so the replay itself is about 1 min 30 s at 1x (a "Replay ends in" counter shows 1M 21S at ~8 s in). Allow ~15 s per replay for menu navigation, so a 3-replay recording take is about 6 min, one clean recording.
+- BLIND VIEWING NOTES (written before any Gemini analysis; coarse, 4 frames at ~25 s spacing, so process-layer detail is weak by design):
+  - t~8 s: Overall damage 3%, loot gained 59,378G/102,646E/2,100DE; attackers entering from the upper-left of the base, troops available x2/x5/x6/x1 etc.
+  - t~33 s: 31% damage, loot 307,940G/307,938E/2,421DE; fire/impact in the centre-left, dragons visible over the north-west, balloons/air units moving in, spells being cast near the centre.
+  - t~58 s: 73% damage, 2 stars (town hall destroyed by then), loot 410,578G/410,578E/4,842DE; heavy impact in the south-centre, ice/freeze effect visible near bottom centre; wall breaches on the north-west.
+  - end: 100%, 3 stars, 751,194G/783,875E/7,803DE. Troops expended row visible (12 dragons class unit, 2 riders, 6 balloons, hero/spell icons; exact spell counts not read).
+  - Matches the Attack Log row exactly (outcome fields). Deployment window and spell timing NOT captured at this sampling rate; that is the layer the video pass should supply.
+- Nothing pressed except Replay and Return Home. Balances unchanged after: Gold 18,183,868 / Elixir 12,675,930 / DE 94,008 / gems 2,854.
