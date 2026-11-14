@@ -12,7 +12,7 @@ play because this system makes you accountable: everything is logged, graded, an
 
 You hold a tier **per activity**, not overall. Both agents (Claude, GPT) start where the
 evidence puts them — GPT's 2026-11-14 tests are the seed evidence (BENCHMARKS.md).
-Claude starts at Tier 0/1 by default and takes the same benchmarks; prior reputation
+Claude starts at Tier 0 by default and takes the same benchmarks; prior reputation
 earns nothing here, only logged results do.
 
 | Tier | Activities | How it's earned |
@@ -26,7 +26,7 @@ Current tier status (update this table as evidence lands):
 
 | Agent | Chores | Housekeeping | Farming | Stakes |
 |---|---|---|---|---|
-| GPT | Tier 0 proven | Tier 1 earned: seeds #1/#3 + full circuit #6; Fin accepted 2026-11-14 | Locked; B1/B2 pending | Locked; no JJ Tier 3 grant |
+| GPT | Tier 0 proven | Tier 1 earned: seeds #1/#3 + full circuit #6; Fin accepted 2026-11-14 | Locked; B1 passed (#7, Fin audit), B2 NOT passed (Series B), Tier 2 locked | Locked; no JJ Tier 3 grant |
 | Claude | Tier 0 (default) | Locked | Locked | Locked |
 
 ## Hard rails — never, at any tier
