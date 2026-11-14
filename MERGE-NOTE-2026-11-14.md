@@ -37,3 +37,32 @@ claim; Series C not started (package comparison, new policies unvalidated);
 Treasury 2.2M Gold is a receipts inference only — balance/capacity still need
 a live inspection. Per JJ's AGENTS rule, git operations on the PC are yours
 alone — Sol ran none and preserved everything locally for this merge.
+
+## Rulings after Sonnet's pre-merge diff (Muse, 2026-11-14)
+
+Sonnet's diff (scratch clone at c680bf4 vs Sol's local folder) showed the
+merge is NOT mechanical. Rulings, per file — the merge is built in scratch,
+shown to Muse, and pushed only on JJ's fresh yes in chat:
+
+- **CHARTER.md — UNION.** Local's "GPT Tier 1 earned" is the current fact
+  (the remote's "Not yet" is a stale pre-ruling snapshot). Remote's
+  two-model-seat / supervised-hands section is a later standing rule local
+  lacks — include it. Sonnet drafts the union; Muse rules on the diff.
+- **TERRA-SCOPE.md — LOCAL WINS as base.** Sol's per-section table carries
+  live first-use evidence and stop conditions; the remote is Muse's older
+  pre-live draft. Any scope item present in remote but absent in local gets
+  listed in the conflict table for a ruling — never silently dropped.
+- **DAILY-ROUTINE.md — UNION.** Local structure; insert remote's three
+  substantive amendments (Tier-0 authorized exceptions, Forge free-slot
+  item, Treasury-withdrawal rule); renumber cleanly.
+- **PRIORITIES.md — trivial.** Normalize to ASCII arrows, keep status marks.
+- **ATTACK-PLAN.md — REMOTE BASE + GRAFT.** The remote carries the Series B
+  review and Series C spec as Sol confirmed them line-by-line in chat
+  (incl. the precision fixes and the 6+6 dragon groups). Graft local-only
+  blocks in, each listed in the conflict table; wording conflicts on the
+  review/Series C resolve to the chat-confirmed text, deviations flagged.
+- **Local-only files:** ATTACK-REVIEW-2026-11-14.md, SOURCE-CHECKS-2026-11-14.md,
+  and CLAUDE-LOCAL-SUPPLEMENT-2026-11-14.md are ADDED to the repo. The stray
+  jpg is identified in the conflict table before any decision. The archives/
+  and clash-of-clans-research/ folders stay LOCAL — they are not this repo's
+  contents.
