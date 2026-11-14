@@ -30,3 +30,9 @@ stats. Seats log at every session end; Fin reviews weekly and rules on waste.
   schedules assume the already-signed-in account.
 - A seat that cannot state its usage at check-in says so; estimates are
   labeled estimates.
+- **No drills that a real action can replace (JJ, 2026-11-14):** seat usage is
+  spent only where it produces account value or evidence a real action cannot.
+  Practice/drill runs are cancelled when the same evidence is available from a
+  real battle that also pays loot — JJ waived Scout's Practice proof on
+  exactly this ground ("don't have Sonnet waste usage"). Drills survive only
+  where the real action is genuinely gated or unsafe.
