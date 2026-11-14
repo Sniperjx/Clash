@@ -187,3 +187,10 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
 - NOT done: Builder Base collectors/Gem Mine, Loot Cart, Clock Tower. B0 count stays 0/3 (partial circuit does not count).
 - Frames: 3 screenshots, 1 batch of 16. No subagent used.
 - #16 addendum (Builder Base): travelled via boat, Gem Mine bubble collected (first Claude Gem Mine collection): gems 2,833 -> 2,834 (+1). Gold collector 2,517,312 -> 2,583,145 (+65,833), Elixir 1,831,485 -> 1,879,575 (+48,090). No spend, builders 3/3, no wrong-screen events in BB (3 single taps, 2 frames checked). Still NOT done: Loot Cart, Clock Tower (not located in view), so full circuit incomplete; B0 stays 0/3.
+
+## #17 — Haiku probe P1-lite (offline screenshots) — 2026-11-14 [Haiku], supervised by Sonnet
+- Method: reduced P1. Haiku read 5 already-saved screenshots (4 game, 1 web chat) via Read, no game control, ground truth known to Sonnet. NOT the full 10-live-screen P1 (no navigation by hand).
+- Game-screen fields: 14/15 correct (93.3%, below the 95% bar, n small). All balances (G/E/DE/gems), village ID, menu-open and builder counts were exact. One miss: on the Wall L17 upgrade buttons Haiku called the second price icon "dark elixir"; the icon is the pink Elixir drop (Sonnet read). Currency-icon confusion is the kind of error that matters for spend gating. Non-game chat page: said UNCLEAR on app name and title (honest), summary OK.
+- Cost: 71,300 subagent tokens, 6 tool calls, ~12.8s for 5 images. A1 was 71,605 for 1 image. So the cold-start (~70k) dominates; each extra image is nearly free. Implication for A2: Haiku only pays if given BATCHES of frames per spawn, never single reads. Sonnet reading one frame directly is far cheaper than spawning Haiku for it.
+- Verdict: P1 NOT passed (14/15 < 95%, and not the live 10-screen form). No Haiku envelope proposed. Haiku reads of currency icons/prices must be re-verified by Sonnet.
+- Also #16: Fin approved the seat-design merge; main now e89d257+.
