@@ -98,6 +98,35 @@ rule: stop, screenshot, log, leave it for the director. JJ can cancel any
 schedule at any time; a missed or failed launch is logged, never retried in a
 loop.
 
+## Roadmap (JJ's directive, 2026-11-14 — read with #interpret latitude)
+
+The point of the whole system: **JJ's spare model usage — Claude's, GPT's, or
+a mix — converts into account progression while JJ is AFK**, on schedules,
+inside the charter. Staffing follows usage: whichever house has usage to burn
+staffs the seats; the folder and the rules are constant.
+
+- **Phase 1 — the Claude seat (NEXT).** Sonnet designs how a Claude seat runs
+  efficiently: Sonnet as the seat's judgment, Haiku as its hands (the
+  Sol/Terra shape, Claude-flavored) — what Haiku can scout, search, collect,
+  and verify; Sonnet's frame budget; how the seat learns (its own LESSONS and
+  review entries, same RSI discipline). Design first (director work, no game
+  gates needed); playing clearance is earned through B0/B1 like every seat.
+  Sonnet's brief: KICKOFF-CLAUDE.md.
+- **Phase 2 — AFK progression.** Scheduled sessions (Config C) doing the
+  earned-tier work unattended: chores, the daily routine, farming inside the
+  seat's tier, Series C trials when a cleared seat is scheduled — plus
+  **challenge and reward completion**: season/event challenge tracks, Clan
+  Games-style tasks, and free-track claims, each mapped to a tier BEFORE it
+  is automated (free claims and no-choice tasks are low-tier; anything with
+  choice nodes, spends, or clan-visible effects keeps its existing gate).
+  Nothing in this phase expands a tier by implication.
+- **Phase 3 — bigger things (JJ-GATED, future).** Wars, CWL, and the rest of
+  Tier 3 stay exactly as gated as they are today until JJ explicitly opens
+  this phase. "Eventually" is a roadmap word, not an authorization: when JJ
+  opens it, the system designs war participation as its own benchmarked
+  program (declarations, participation scope, attack standards) before a
+  single war action is taken.
+
 ## The RSI loop
 
 Sessions produce logs; logs produce reviews (TRIAL-LOG, series reviews);
