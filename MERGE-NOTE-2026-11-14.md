@@ -41,8 +41,10 @@ alone — Sol ran none and preserved everything locally for this merge.
 ## Rulings after Sonnet's pre-merge diff (Muse, 2026-11-14)
 
 Sonnet's diff (scratch clone at c680bf4 vs Sol's local folder) showed the
-merge is NOT mechanical. Rulings, per file — the merge is built in scratch,
-shown to Muse, and pushed only on JJ's fresh yes in chat:
+merge is NOT mechanical. Rulings, per file — the merge is built in scratch
+and shown to Muse. (JJ clarified 2026-11-14: the fresh-yes-before-push rule
+belongs to his CODE projects, NOT to this Clash repo — pushes here follow
+COLLAB.md discipline without a per-push JJ gate.)
 
 - **CHARTER.md — UNION.** Local's "GPT Tier 1 earned" is the current fact
   (the remote's "Not yet" is a stale pre-ruling snapshot). Remote's
