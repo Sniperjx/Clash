@@ -10,13 +10,8 @@ tightened by trial data. In real farming (Tier 2), the same calls decide attack 
 ## 1. DEAD / COLLECTOR base — ATTACK (easiest real reps)
 
 Telltales: collectors/mines visibly FULL and sitting on the outer ring; tombstones
-scattered; heroes possibly absent; storages emptier than collectors. [community
-telltales — verify against your own trial results]
-**Caution (v1.3.1):** telltales SUGGEST inactivity; they never prove it. Hidden traps
-and Clan Castle troops cannot be ruled out from the scout screen — a "dead" base can
-still have both live. No path in this program is ever "guaranteed clean," including
-the Blimp's: the go/no-go check covers VISIBLE defenses only, and every trial entry
-should treat hidden defenses as an open risk, not an excluded one.
+scattered; traps likely unarmed; heroes possibly absent; storages emptier than
+collectors. [community telltales — verify against your own trial results]
 Verdict: S1, edge = the collector-densest side. Loot first; stars are a bonus here.
 LLM difficulty: LOW. This is the Tier-2 training-wheels target.
 
@@ -78,3 +73,10 @@ LLM difficulty: VERY HIGH. Pride is not a strategy input.
 4. Strategy matches the type per this file? If improvising — stop. Improvisation is
    how unlogged failure modes are born.
 5. Army of record fully trained, spells complete, heroes awake? If not, don't start.
+
+## v1.3 local review corrections
+
+Dead/collector is a tentative visual classification, not proof of absent heroes, CC troops or traps. Types may overlap (compact plus anti-air, rushed plus ring); record all material tags. Visible AD/Sweeper screening does not reveal trap placements or ensure Blimp survival. Treat anti-air/maxed classifications as conservative current-program exclusions, not universal rules of the game. S2/S3 remain research-only until an exact composition is logged.
+
+## Current no-siege baseline scouting - #11 review
+Current ATTACK-PLAN runbook supersedes any requirement above that assumes a filled Blimp. For S1-B0/Narrow noCC/siege use: positively identify TH separately from Eagle; record entry,cornerdefenses,AD/Sweepers,centraldamagecluster and where pack can path. A ring moat/centralTH is a serious split risk;lowwalls aren't safeairdefenses. TwoSweepers facingsegment ->re-pickentry/NO-GO;hiddenCC/traps remainunknown. SupportedBlimp path is a separate unreadyvariant,not guaranteedclean. Record allskips/failures;strongcentralring stretchtests distinctfromnormaleligiblecomparisons.

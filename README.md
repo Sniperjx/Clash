@@ -51,3 +51,10 @@ Collect everything, clear normal obstacles, keep builders and the Lab busy with 
 PRIORITIES queue, practice attacks until the benchmark says you're good, and write
 everything down so the next agent — Claude or GPT, whoever sits down next — starts
 smarter than you did. The folder is the player; you're just its current hands.
+
+## Local review notes
+Read the superseding review corrections at the end of the four v1.3 documents and SOURCE-CHECKS-2026-11-14.md. These tighten interpretation and do not expand permissions.
+
+
+## Current attack handoff - 2026-11-14 #11
+Read the CURRENT block at the top of ATTACK-PLAN.md and STATE.md. ATTACK-REVIEW-2026-11-14.md is the five-Battles evidence review. Earlier campaign-only/farming-lock wording is superseded for JJ-authorized regular Battles;no Ranked or Builder PvP. B2 remains unpassed;no reliable-two-star claim. TERRA-SCOPE.md controls bounded supervised chores. Preserve local logs/current reviews during any Claude-led repository merge;Sol has not run git or replaced this folder.

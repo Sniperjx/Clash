@@ -1,3 +1,36 @@
+# CURRENT ATTACK RUNBOOK - 2026-11-14 #11 closeout
+This section supersedes conflicting historical text below. Evidence: ATTACK-REVIEW-2026-11-14.md and SESSION-LOG #11. Fin reviewed and accepted the plan/corrections live in Muse. No new Series C attacks have started.
+
+## Permission and measured status
+JJ authorizes regular real multiplayer Battles and accepts rank loss. No Ranked enrollment, Builder Base PvP, gems/money/items, or arbitrary clan messages. B2 NOT passed; Tier2 not earned; direct JJ attack authorization remains valid.
+SeriesB completed100/3,100/3,74/2,59/2,36/0. Mixed overall73.8%avg,4/5two+;unboosted ownspell subset67.25%avg,n4,3/4two+. No reliable-two-star label. Deployment demonstrated13-18s,one recoveredmiss. Geometry/split,defensive attrition and supporttiming remain weaknesses. Review all five, not just wins.
+
+## Exact current army
+12 Dragons11 +2 Dragon Riders5 +6 Balloons11 (320);4 Rage6 +3 Freeze7 (11).
+MP70,Queen95,RC45,Warden70 AIR;unboosted. MP petless. Unboosted result petrow Unicorn10/Frosty3/Owl8,ownedlevels still directPetHousecheckpending. Complete equipment identities/levels not fully inspected; keep existing equipment unchanged and record snapshot before new series.
+No siege/CC troops/CC spells in next baseline. Own BattleDrill3/SiegeBarracks4 observed;ownBlimp availability unverified. DonatedBlimps5 preserved. Grey requested Hog/IceGolem icons are not verified actualpayload;directCCread required. An unsupported TH plan is UNPROVEN, never an artificial cap on actualstars.
+
+## Series C - S1-B Narrow package, proposed next five (NOT STARTED)
+Five regular Battles, unboosted ownspells only,noCC/siege,stableequipment/pets/readiness. This is a PACKAGE comparison:geometry plus abilitypolicy plus reservegate;do not attribute improvement solely to geometry. No switching midseries;interruptions/rosterchanges labeled separately,failures never discarded.
+1. Scout before deployment:positiveTH identification,baseclass/THrange,entryedge,defenses/Sweeperdirections,legalpoints,spellzones. Prefer a direct TH-side approach where feasible;centralTH advantage is weak hypothesis,not established. Two sweepers blowing into segment ->re-pick entry orNO-GO. Anti-air/META remain current exclusions;strong centralrings only as explicitly labeledstretchtests. Low walls do not prove safe defenses. Record skippedopponents and1,600Gcost for entry/Next.
+2. Entry segment about60% of one edge. Queen/RC at segment OUTER corners as funnelpair,stayingwide. Batch1:Q+RC+6Dragons(two at each ofthree preplannedpoints). Verify. Batch2:remaining6Dragons(samepoints),2Riders+6Balloons andWarden/MPcenter behindline. ALL12Dragons must deploy:6+6,never6+5. No third siege batch. Rejectedpoint ->recover outside boundary,logmiss;unexpectedscreen ->stop/reobserve.
+3. Rage1 occupiedentry afterdeployment;Rage2 core atabout25% AND currentpackconfirmation;Rage3 THzone withcurrentengagement;Rage4 largest currentcluster of>=4Dragons/Riders underfire outsidepriorzones. Four-unit threshold NEW/UNVALIDATED;countconservatively. No qualifyingmoment byabout70% ->hold. A passedmoment skipped;logonplan/improvised/skipped,counts/effects. Percentage alone never authorizes an emptygroundcast.
+4. Freeze1 namedentrythreat whileengaging;Freeze2 namedTH-pathdefender whileengaging;Freeze3 strongestcurrentconfirmedthreat. No blindlatecasts. Consumption alone does not prove tacticalbenefit.
+5. Abilities,NEWPROVISIONALPOLICY:Warden/MP one deliberate attempt at verifiedcoreentry;Queen one attempt around50-60%health or clearheavythreat;RC AUTOdefault. No plannedkill depends on fastmanualtiming. Recordattempt/fired/AUTO separately;grey+health+effect supportmechanism,not optimalutility.
+6. Finish while survivors can add damage. End when TH/down+cleanupstalled or armyexhausted/noobvioussurvivors;verify result thenHome. Unusedspell/siege never a reason to blindcast/deploy afterarmydeath.
+7. Log exacttroops/levels/boosts,gear/pets,baseclass/TH/entry,currentoccupancy,allspelljobs/deviations,abilityevidence,deployseconds/toolcalls,misses,THoutcome,stars/%,loot/bonus,settledbalances,causes. Compare with unboosted baseline as descriptive evidence,not matchedopponents.
+
+Fin's SeriesC qualification ruling:five clean loggedtrials average>=70% AND>=3two+ may satisfyB2;no automaticpromotion beforecompleteaudit. Reliability additionally needs a comparable predeclared10-trial window>=8two+ for sameoperator/version/venue/baseclass/THrange;neverguarantees. Reviewaftereveryfive;keepallfailures. A changedpackage/newboost restarts labeledcomparison.
+
+## Later supported TH-path variant (Series D, not ready)
+Inspect actualCC contents,ownWorkshop/Blimp availability,and supportingpayload/spells first. Requestingclanpayload needs JJ's specificinstruction;no clanrequest sent. Blimp is delivery,notTHkill. No donatedsiegeconsumption merelytomatchtests,no offqueueWorkshopupgrade. Freeze/trap/Sweeper uncertainties remain. S2Hydra/S3ElectroDragons research-only until exactcomposition/script amendment.
+
+---
+
+---
+
+# Historical plan and amendments (reference only; the current runbook above controls where it conflicts)
+
 # ATTACK-PLAN — Strategies Built For An LLM's Hands (v1.3)
 
 **Everything in this file is a HYPOTHESIS until trial data says otherwise.** No strategy
@@ -315,3 +348,35 @@ check STATE before assuming availability. Never vs spread bases.
   or shelve. Amendments cite trial numbers.
 - Farming (Tier 2, when earned) uses S1 on DEAD/COLLECTOR bases first (BASE-TYPES) —
   the easiest real-venue reps — before any live-base attempts.
+
+---
+
+# Appendix - Sol's local-only historical sections (preserved verbatim from the PC-local file at merge time)
+
+## v1.3 local review corrections (supersedes conflicting wording above)
+
+- Two-star outcome requires BOTH Town Hall destroyed AND at least 50% destruction, in either order. Neither is guaranteed.
+- Inspect exact Clan Castle payload before a Blimp-based TH plan. Empty or unspecified CC cannot establish a supported TH kill. Mark TH plan unproven/no-go for a two-star benchmark until a payload and supporting plan are recorded and tested. Don't assume siege availability in every venue.
+- S2 and S3 are research-only until exact troop/spell/hero/equipment/pet/CC composition and prerequisites are recorded and validated. B2 uses the same recorded Army v1 version; no pooling materially different armies or venues.
+- Reliability is reported per strategy version, operator, venue, base type and Town Hall range. Eight successful two-star results in ten is descriptive evidence for that tested slice, not a guarantee or evidence of TH17 PvP success from campaign tests. Log all eligible attempts, failures and skips; select trial series in advance rather than cherry-picking best ten.
+- Do not infer traps absent or Clan Castle empty from a dead-looking base. Blimp safety is uncertain even after visible-path screening. Never promise a clean path.
+- Slow UI round trips can miss triggers too. Log actual observation/deployment delays and missed triggers; reduce required decisions based on evidence, not the label of a strategy.
+
+Fin v1.3.1: campaign certifies control competence only. A PvP reliability label requires its own ten recorded Battles trials for the same strategy/base-type slice; >=8/10 is a measured rate, never a guarantee. S2/S3 require a written exact-composition amendment before any trials.
+
+
+## S1-B Batched Line - experimental, Fin/Sol amendment 2026-11-14
+Same Army-v1:12 Dragons,2 Dragon Riders,6 Balloons;4 Rage,3 Freeze;Queen,Warden AIR,Minion Prince,RC;Blimp. This changes choreography, not troop composition. No reliability claim yet.
+Pre-scout and record edge, legal deployment coordinates, two funnel corners, siege path, entry/core/TH Rage zones and named Freeze threats before any deployment. Dragons still split or circle when funneling fails.
+Batch1:Queen+RC corners and6 Dragons across entry. Batch2:remaining6 Dragons,2 Riders,6 Balloons, Warden and Prince with center. Batch3:Blimp trailing the pack on planned path. Verify between short deterministic batches. Stop a batch on rejected input/unexpected screen; do not run an adaptive blind sequence. Preserve selection verification where necessary; test batching rather than assuming it succeeds.
+Rage1 entry after Batch3 with troops present;Rage2 core at about25% AND current troop-location confirmation;Rage3 TH zone only with pack engaging there;Rage4 largest surviving group under fire outside prior zones, otherwise unspent by about70%. Freeze1 named entry threat;Freeze2 named TH/siege-path threat, only while currently engaging troops;Freeze3 reactive strongest confirmed current threat. A passed moment is skipped; log each spell as on-plan/improvised/skipped, consumption and effect evidence separately.
+Abilities:only from verification frames, below about40% health or under a named high-DPS threat;max one deliberate attempt/hero/trial. Record AUTO separately. No planned kill assumes timely manual ability.
+Inspect exact loadout, equipment,pets,CC and siege before declaring a series. An unsupported CC/siege TH plan is UNPROVEN, not a prediction that the actual result cannot exceed one star. Record actual results honestly.
+Proposed Series A:five attempts on the same highest unlocked campaign map, named before attempt1. Zero input-caused aborts;trials3-5 <=1 input miss each;last3 destruction average improves on first2 OR >=95%;at least2/5 two-star results. Report trend separately. This experimental criterion is distinct from B2 (>=70%avg,>=3/5 two-star), and campaign cannot establish PvP reliability. A changed army/script/base starts a separately labeled series. If FUNNEL dominates, consider S1-C with heroes on line flanks after review;not yet trialed.
+
+### Series A revised before trial1 - S1-B0 deployment variant
+Fin accepted no-siege deployment series on a fixed late generalist campaign map;Dragon's Lair rejected as specialized ANTI-AIR and retained as later stretch test. No siege/CC troops/CC spells used in B0;main troops/spells and four heroes remain Army-v1. This series gets ZERO B2 credit and no two-star strategy/reliability claim. Actual stars still recorded. Criterion4 becomes >=3/5 at>=70% destruction;other input/ceiling criteria above remain. Workshop/own Blimp availability remains unverified,not assumed locked. Do not consume donated sieges for matched trials. In-game tooltip explicitly said Siege Barracks empty;the grey Hog/IceGolem icons in army UI therefore are not verified actual CC payload and must not be reported as filled troops. Own loadout observed:12Dragons11,2Riders5,6Balloons11,4Rage6,3Freeze7;effective MP90,Q100,RC50,Warden75 AIR,Heroes Boosted. MP no pet. Existing equipment/pets left unchanged;Queen selection showed Unicorn15,GiantArrow18,mirror-icon27. Other equipment identities not fully verified;record unknown rather than invent. Series is deployment exploration,not full exact-loadout certification.
+
+## #11 live Battles refinement - JJ override
+JJ explicitly authorized regular real battles and accepted rank loss; use ordinary matchmaking now. Prior B2 entry gate no longer blocks this user-directed task. Ranked enrollment and BuilderPvP remain excluded. Do not purchase boosts/refills. SeriesA closed incomplete due userinterruption/venuechange. SeriesB results must be stratified:SB1 boosted plusCCspells,SB2onwardunboostedownspellsonly. Never pool those to claim identical conditions.
+Opening target selection must positively locate the TownHall separately from Eagle and name approach defenses; SB1 confused their identities before recovering. Batch deployment13s is practical. RC ability may auto-trigger before an input arrives; do not depend on deliberate RC timing. Prioritize current occupied Rage zones and Freeze on active highdamage defense; a percentage threshold alone remains insufficient.

@@ -26,44 +26,8 @@ Current tier status (update this table as evidence lands):
 
 | Agent | Chores | Housekeeping | Farming | Stakes |
 |---|---|---|---|---|
-| GPT | ✅ Tier 0 (proven 2026-11-14) | Not yet (donation unproven; upgrades untested) | ❌ (practice best: 31%, 0★) | ❌ |
-| Claude | Tier 0 (default) | Not yet | ❌ | ❌ |
-
-## Supervised hands — the two-model seat (JJ's architecture, 2026-11-14)
-
-A seat can be TWO models: a judgment model (GPT Sol; later, for Claude's trial,
-Sonnet) directs a faster hands model (Terra; later Haiku). The pattern is JJ's, and
-it mirrors how his whole stack works — the strong model plans and verifies, the fast
-model executes volume. Rules:
-
-- **The judgment model owns the seat.** Its tier is the seat's tier. It plans the
-  session, verifies the hands' results (balances, screenshots, logs), and answers
-  for everything the hands did. Muse holds the judgment model accountable, not
-  the hands.
-- **Hands inherit a capped subset, never the whole tier.** Hands may run: Tier 0
-  chore circuits, mechanical navigation/collection, and repetitive drill inputs
-  the judgment model specified. **Expanded scope (JJ, 2026-11-14):** name-verified
-  normal obstacles, zero-choice free claims, the bounded Sol-reviewed donation
-  flow, Clan Capital free-Forge claims, and Builder Base chores — all itemized
-  with stop conditions in TERRA-SCOPE.md, which is the controlling document for
-  hands scope. Hands may NOT: start upgrades or research, make queue decisions,
-  resolve reward CHOICE/overflow nodes, spend Capital Gold or convert resources,
-  play Builder Base versus battles, or edit STATE/PRIORITIES.
-- **Hands' evidence is labeled, not pooled.** Trial and session entries carry
-  [Terra] / [Haiku] tags with "supervised by <judgment model>." Input-skill
-  evidence (deployment speed, misses) accrues to the hands model — that is
-  exactly what it is being auditioned on.
-- **State edits: hands draft, the seat owner commits.** A hands model may prepare
-  STATE/log updates, but they take effect only after the judgment model verifies
-  and commits them. (Clarified 2026-11-14 after Terra's first supervised session
-  updated STATE before this ruling reached Sol; Sol reviewed those changes after
-  the fact and they stand — one-time exception, not a precedent.)
-- **Unsupervised hands = their own gauntlet.** While supervised and verified in
-  the same session, hands work under the seat's tier. The moment hands would play
-  a session the judgment model is not reviewing, they need their own B0/B1 passes
-  like any new agent.
-- Rails bind hands identically. A rail violation by hands ends the experiment
-  and is logged against the seat.
+| GPT | Tier 0 proven | Tier 1 earned: seeds #1/#3 + full circuit #6; Fin accepted 2026-11-14 | Locked; B1/B2 pending | Locked; no JJ Tier 3 grant |
+| Claude | Tier 0 (default) | Locked | Locked | Locked |
 
 ## Hard rails — never, at any tier
 
@@ -99,3 +63,17 @@ Tier promotions follow the benchmark gates. **Rail changes are never self-grante
 anything in the "Hard rails" list can only be changed by JJ, recorded here with his date.
 If you believe a rail should change, write the proposal at the bottom of LESSONS.md
 under "Proposals for JJ" and keep obeying the rail until he rules.
+
+## Supervised hands - Fin ratification, 2026-11-14
+
+- The judgment model owns the seat. Its tier is the seat's tier. It plans the session, verifies the hands' results (balances, screenshots, logs), and answers for everything the hands did. Muse holds the judgment model accountable.
+- Hands inherit a capped subset, never the whole tier. They may run Tier 0 chore circuits, mechanical navigation/collection, and repetitive drill inputs specified by the judgment model. They may not start upgrades/research, make queue decisions, resolve reward choice nodes, donate, or independently edit STATE/PRIORITIES.
+- Hands evidence is labeled, not pooled. Trial/session entries use [Terra] or [Haiku] with "supervised by <judgment model>". Input evidence, including speed and misses, accrues to the hands model.
+- Hands draft; the seat owner applies reviewed changes. Hands may prepare STATE/log updates, but those updates take effect only after the judgment model verifies and applies them. Terra's direct STATE updates in #8/#9 were reviewed by Sol and accepted by Fin as a one-time exception, not precedent. Applying reviewed changes does not mean running Git.
+- Hands reviewed in the same session operate under the seat's capped permissions. An unattended independent session requires the hands model's own B0/B1 evidence.
+- All hard rails bind the hands identically. A violation ends the experiment and is logged against the seat.
+
+Tier-table clarification: GPT judgment seat has a qualified B1 pass from #7 accepted by Fin. B2 remains unattempted; Tier 2 farming and Tier 3 stakes remain locked. Terra does not inherit independent qualifications.
+
+## Expanded supervised chores - 2026-11-14
+JJ requested supervised Terra collections,normal obstacles,free claims,requested donations and Clan Capital chores;Builder Base PvP explicitly excluded. TERRA-SCOPE.md controls the bounded execution flow and supersedes the earlier blanket hands donation ban for Sol-reviewed exact visible requests only. Hands still cannot decide queues,spend on conversions/contributions,choose rewards,or independently apply STATE/PRIORITIES changes. Free Forge collection is allowed only after first live verification as a zero-cost collection;conversion slots remain outside routine. All hard rails unchanged.

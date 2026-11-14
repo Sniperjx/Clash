@@ -1,0 +1,11 @@
+# Source checks - 2026-11-14
+
+Official support retrieved during v1.3 review. General mechanics only; availability and controls on JJ's account are NOT live-verified. CHARTER and earned tiers govern all actions.
+
+- https://support.supercell.com/clash-of-clans/en/articles/the-forge.html : first Forge slot generates free Capital Gold every 24 hours; resource conversion is a different operation and can tie up a builder. Inspect free slot only until the routine explicitly authorizes claiming it.
+- https://support.supercell.com/clash-of-clans/en/articles/about-multiplayer-and-trophies-3.html : Home Village Star Bonus earns resources from five stars in eligible attacks, credited to Treasury. A new bonus timer is 24 hours; up to two bonuses stack. Inspect actual game flow; do not invent a separate Claim button or unlock restricted battles for this reward.
+- https://sc-clashofclans.zendesk.com/hc/en-us/articles/49529097715611-Season-Tasks : task cards stack, with four initial cards and one additional daily; seven completed tasks finish a card. Unclaimed-rewards filter exists, and some rewards require choices. Do not spend, donate, request, upgrade, or attack outside current permissions to complete a task.
+- https://support.supercell.com/clash-of-clans/en/articles/clan-games-rewards.html : choices available after Games, participation eligibility required; rewards remain seven days. Capacity and overflow choices need review; never auto-use or sell a magic item to make room.
+- https://support.supercell.com/clash-of-clans/en/articles/how-can-i-get-free-gems-and-resources.html : achievements, Gem Boxes and Gem Mine are gem sources. Generic obstacle advice does not override JJ: NEVER CLEAR EVENT OBSTACLES; ambiguous obstacles stay untouched.
+
+Live audit checklist: Home collectors/cart; BB collectors, Gem Mine and defensive-loot cart; Treasury room/need; free Forge slot; Trader offers and price; Season Task cards/free reward track; event/calendar/returning-player/inbox rewards and deadlines; achievements; helpers and assignments; Clock Tower free boost; pending choices/overflow. For every item record available / unavailable / locked / unknown, claim amount, permission basis, reset/deadline if shown, and before/after evidence. Do not guess timers or imply every feature exists.

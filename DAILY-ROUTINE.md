@@ -98,3 +98,17 @@ spend of any kind rides along with them.
 
 Open game -> read STATE.md notes -> [COLLECT] home -> [COLLECT] BB -> [CHECK]s ->
 any earned-tier work (upgrades/practice) -> [CLAIM]s available today -> log -> STATE.
+
+## v1.3 local review corrections (supersedes conflicting wording above)
+
+- Normal-obstacle removal is an explicitly authorized Tier 0 resource cost, not a no-cost collection. Verify normal identity and displayed cost; never gems, event or ambiguous obstacles.
+- Clock Tower activation is a free boost, not resource collection. Verify free status; no potion, gem skip, or purchase. Availability unverified.
+- Treasury: inspect room and need before withdrawing. Star Bonus is credited there; a separate claim action is not assumed.
+- Do not blindly Claim All: check inventory room, overflow, choices, expiry, and whether anything starts an item timer. Never sell/use magic items, convert ores or spend currencies as collection.
+- Expand CHECK ONLY inventory to free daily Forge slot, BB defensive-loot cart, achievements, returning-player/calendar rewards, inbox/event rewards and helpers. Existing Forge/claim permissions remain unchanged. Record available/unavailable/locked/unknown and current reset/expiry shown in-game; do not invent availability or timers. See SOURCE-CHECKS-2026-11-14.md.
+
+Fin v1.3.1 final Treasury rule: withdraw only with storage room AND a planned queued spend; otherwise keep it banked. Verified in #6: home collection, BB gold/elixir and Gem Mine; other VERIFY LIVE surfaces remain pending.
+
+
+## Supervised Terra routine amendment - 2026-11-14
+See TERRA-SCOPE.md for controlling checklist,first-use reviews and stops. Pure FREE daily Forge slot may be collected after Sol inspects the first live flow;this supersedes prior check-only/wait-for-ruling wording for that slot only. Resource conversions and contributions are separate spending decisions;raids remain Tier3. Builder Base includes collectors,Gem Mine,free Clock Tower and verified normal obstacles;no Builder Base PvP work. Free claims require zero price,no choice and no overflow;donations require Sol-reviewed exact known troop/count from surplus,without gems or quick training.

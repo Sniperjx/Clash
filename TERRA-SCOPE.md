@@ -1,3 +1,26 @@
+# TERRA-SCOPE - supervised chore checklist
+
+Fin/Sol plan at JJ's request, 2026-11-14. This supersedes the earlier blanket hands donation ban only for the reviewed flow below. Sol opens a session plan naming its active sections, reviews first-use screens and all decisions, verifies the closing report and applies STATE updates. Terra drafts changes only. No simultaneous PC operators. Builder Base PvP is excluded entirely by JJ.
+
+| Section | Terra execution scope | Evidence / first-use review | Stop conditions |
+|---|---|---|---|
+| Home collections | Gold,elixir,DE bubbles;Loot Cart if positively identified | Collectors observed #9;Loot Cart/full perimeter NOT verified in #9. Record before/after and full search. | Unrecognized object/dialog,unexpected cost or decrease |
+| Builder Base collections | Gold/elixir collectors,Gem Mine when bubble exists | Collectors observed #9;Gem Mine inspected with no bubble, no collection. First actual Gem Mine collection reviewed by Sol. | Purchase/speedup/cost,uncertain screen |
+| Clock Tower | Free normal activation only | Needs first live flow inspection and Sol verification;no potion/gem substitute. | Any cost,potion,unexpected confirmation |
+| Normal obstacles, both villages | Open selection and read exact normal name before removal;Tree variants,Bush,Trunk,Mushroom,Stump,Gem Box only | First3 name checks reviewed by Sol;record normal resource cost and gem delta. Previously proven by Sol #6,not Terra. | Event/seasonal/decorated/unique/uncertain object,unlisted/unreadable name;leave untouched |
+| Free claims | Single free item or zero-choice free track claim after screen review | First live check per surface:Trader,Daily Tasks,event/free tracks,inbox/calendar/achievements if present. These are candidates,not verified available rewards. | Any price,paid track,choice node,overflow/full-storage warning;Sol decides or skip. No blind Claim All |
+| Requested donations | Only Sol-reviewed visible named request, exact troop/count already trained and surplus to planned Army-v1 readiness | First3 requests require request+donation-screen screenshot review before execution;then still Sol specifies request/troop/count each session. | Unknown/general request,insufficient surplus,quick-train/gem-donate,request change;no typing/chat/social action |
+| Clan Capital free Forge | Positively FREE daily slot collection only;verify reward and activation flow with Sol first | Fin resolved prior check-only restriction for pure free collection at JJ's chore request. Builder requirement and actual flow remain live checks. | Conversion/resource cost,gem/item,unexpected dialog |
+| Other Clan Capital | Read-only inspection/report | Contributions are Sol decisions requiring an explicit target/budget in the session plan;no Terra contribution authority. Conversion remains outside routine. Raid attacks remain Tier3 locked. | Any spend,upgrade/contribution/raid confirmation |
+
+All hard rails bind:never gems,money,event obstacles,account changes,clan messages or unauthorized upgrades. No research/queue choices/reward-choice resolution by Terra. Stop,screenshot and report on unexpected dialogs,costs outside specified normal obstacle removal,choice nodes,name mismatch or unexplained decrease. Never bypass a user-input stop. Close with per-section before/after balances,claims/obstacle names/costs,misses,gaps,screen state and explicit control relinquishment. Sol verifies before applying the report. Expanded chores are planned,not claimed demonstrated until performed.
+
+---
+
+# Appendix - Fin's earlier detailed draft (pre-live, kept for ruling; Sol's table above controls)
+
+Preserved verbatim at merge time (2026-11-14, Claude). Items here with per-item LIVE CHECK counts and stop conditions are condensed in the table above; Fin to rule which detail graduates into the controlling table.
+
 # TERRA-SCOPE — Expanded Supervised Hands Scope (JJ's workstream, 2026-11-14)
 
 JJ expanded what supervised hands (Terra; later Haiku) may do, beyond the original

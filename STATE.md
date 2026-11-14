@@ -1,105 +1,83 @@
-# STATE — Live Account Tracker
+# Current user constraint - game CLOSED, #13
+JJ closed Clash and instructed Sol to continue collaborating with Fin without playing. Do not launch/control the game for this planning work. All resource/timer values below are historical live snapshots, not fresh readings. Claude local supplement: CLAUDE-LOCAL-SUPPLEMENT-2026-11-14.md. No schedule/account switching implemented.
+# LATEST VERIFIED STATE - #12 Terra pilot, 2026-11-14
+- Home:17,850,334 gold /12,334,995 elixir /90,402 dark elixir /2,833 gems. Sol visually verified after Terra's ONE authorized regular Battle;Home,no dialog/battle. Phoenix last label16h22m;builders6/6free,Lab1/1idle. BB unchanged oldobservation,notrechecked.
+- Terra pilot J_Sully:100%,3stars,loot751,194G/783,875E/7,803DE plus300kG/300kE/2,100DEbonus. Sol verifiedAttackLog;noCC/siege. Deployment21.852s firstattempt-to-last incl rejectedbatch/recovery;3Rage/3Freezeused,1Rageunused. SeparateTerrarecord,notSolSeriesC/qualification.
+- JJ explicitly authorized this oneTerraattack;priorhandscombatcap superseded forpilotonly. Terra relinquished;SolverifiedandleftHome. Fullreport SESSION-LOG #12. No furtherattacksqueued.
+- OpeningTerra16,800,740G/11,251,120E/80,499DE/2833gems differs substantially upwardfrom#11;causeunattributed. Do notcountdriftasloot. Battleledgeritselfreconcilesexactly.
+- No reliabletwo-star/B2promotion/modelsuperiority/usagesavings claim. CurrentS1-BNarrow remainsprovisional;SolSeriesCNOTstarted. Existingrails/priorities unchanged. No gitcommands or reporeplacement.
+# CURRENT HANDOFF - 2026-11-14, Sol #11 complete
+This current block supersedes older snapshots below. Read ATTACK-REVIEW-2026-11-14.md and current ATTACK-PLAN first for combat.
+- Home7,712,116G /6,660,631E /32,093DE /2,833gems,last visually verified afterSB5. Home,no pendingbattle/dialog. BB last#9:2,503,119G/1,819,325E,notrechecked.
+- Phoenix1->2 stillupgrading,lastlabel16h46m;started~09:33PT,estimatedfinishNov15~03:33PT. Don'tduplicate/cancel/speedup. Builders6/6free,Lab1/1idle. No otherupgrade.
+- Two automaticStarBonusreceiptpopups observedduring#11,each1.1M G/1.1M E/5500DE+1050/59/1ores. NoTreasurywithdrawal. CurrentTreasurybalance/capacity NOT inspected;receipt sum2.2M is inference,not verifiedwithdrawablefunds. Reinspectcost/storage/queuebeforeanyspend;olderunaffordability statementsarehistorical.
+- JJexplicitregularBattles/ranklossauthorization persists;noRankedenrollment/BuilderPvP/gems/items/money. B2NOTpassed/Tier2NOTearned,Finreviewconfirmed. FiveBattles100/3,100/3,74/2,59/2,36/0;overall73.8%,unboostedn4=67.25%. No reliabletwo-starclaim.
+- Ownarmy12Dragons11,2Riders5,6Balloons11;4Rage6,3Freeze7;MP70/Q95/RC45/W70AIR,unboosted. Existingequipmentunchanged,fullnamesunverified;MPpetless. UnboostedresultpetsUnicorn10/Frosty3/Owl8,directownedcheckpending. CCactualpayload/ownBlimpavailabilityunverified,noCC/siegeusedduringfive. DonatedBlimpspreserved.
+- Terra preparation-only completed andidle;noPCrelease/noexpandedchoresperformed. Handsdraft,Solverifies/applies;TERRA-SCOPE controls. No measuredTerrausage/speedadvantage.
+- Nextcombat:readcurrentS1-BNarrowpackage,inspectloadout,anddeclarefivecleanSeriesC trials beforeplay. None started. Allfuturechangedconditionslabeled;nooutcome guarantee.
+- FullchoreCHECKs/directCC/Workshop/PetHouse inspections remainfuturework. No blanketauthorizationforclanrequests/donations/conversions/raids.
+- Finreceivedsettledresults and acceptedprecisionfixes live. Newrepo/orchestrationdiscussion observedinMuse;no gitcommands,replacement,pull,pushorcloningperformedbySol underJJ'sAGENTSrule. Claude must preserve/merge ALLlocalappendlogs andcurrentreview/runbook into sharedrepo;do notreplaceDesktopClashwithanolderpack. Remotecommitclaimsnotlocallyverified.
+- Earlier+5gemdriftunattributed;gemsstable2833throughfiveBattles. SB3RC50misreadwithdrawn,AttackLog45confirmed,causeunknown.
 
-**Update this file at the end of every session. It is the single source of truth for
-"where are we right now." If it goes stale, the next agent wastes a session.**
+---
+# Historical state snapshots (not current balances)
+# STATE - Current verified handoff
 
-Last updated: 2026-11-14 ~11:15 PT (Sol report — Terra pilot #12 settled and
-independently verified by Sol via Attack Log + Home; mirrored by Muse)
+Last updated2026-11-14, Sol/Terra sessions #8-#10 and Fin audit. Account SNIPERJX12, clan Boysenberry, level226, TH17 (prior account snapshot retained in ACCOUNT.md).
 
-## Resources
-
+## Resources (last observed after #10, not a fresh live check)
 | Gold | Elixir | Dark Elixir | Gems |
 |---|---|---|---|
-| 17,850,334 | 12,334,995 | 90,402 | 2,833 |
+| 3,868,082 | 3,756,184 | 10,185 | 2,828 |
 
-**Large unattributed UP drift before the Terra pilot:** between the Series B
-closeout (7,712,116 / 6,660,631 / 32,093) and the pilot's opening read
-(16,800,740 / 11,251,120 / 80,499), storages rose ~+9.1M G / +4.6M E / +48K DE
-with no agent action recorded — most plausibly JJ's own play; logged
-unattributed per the standing watch (up-only; any unexplained DECREASE
-escalates to JJ immediately). The pilot's own ledger reconciles EXACTLY
-(loot+bonus-entry fee to the digit on all three resources). Consequence:
-Firespitter #1 (8.5M G) is now affordable from storages alone, twice over;
-the Treasury question is moot for that purchase. Phoenix ~16h22m remaining.
-Treasury: two Star Bonus deliveries were OBSERVED via popups (after SB-2 and
-after SB-4), each 1,100,000 G / 1,100,000 E / 5,500 DE + ores — so 2.2M G banked
-is a RECEIPTS INFERENCE, not an inspected balance. The Treasury's current
-balance and capacity MUST be inspected before any withdrawal math is treated
-as fact; the "Firespitter affordable" conclusion is provisional on that read.
-Withdrawal rule stands (CHECK item 20): only with storage room + a planned
-queue spend. Measured prices: ENTERING matchmaking costs 1,600 Gold and each
-Next costs 1,600 Gold (this resolves SB-3's -3,200 gold gap exactly: entry +
-one Next — not two skipped opponents). Also corrected: SB-3's stray "RC 50"
-read — the Attack Log's 45 stands; the 50's cause is UNKNOWN (boost was
-inferred, never proven). Phoenix 1 -> 2: ~16h46m remaining at closeout.
+Builder Base: Gold2,503,119 / Elixir1,819,325, last observed by Terra in #9. No gems collected in #9. Earlier #6 gems included19 from Gem Mine and6 from normal Trunk. Normal production may have accrued since these reads; recheck live.
 
-DRIFT NOTE (2026-11-14 ~10:15): opening balances rose vs the #10 close (+29,230 G /
-+29,778 E / +314 DE / +5 gems) with no agent action in between. Direction is UP only
-— nothing was spent or lost; cause not attributed (passive accrual explains part;
-the gem +5 is unexplained and logged as open drift). Standing watch: any future
-UNEXPLAINED DECREASE gets escalated to JJ immediately.
+## In progress
+- Phoenix1->2:40,000DE,18h, started approx2026-11-14 09:33PT; estimated finish2026-11-15 03:33PT (11:33UTC). Last observed label about17h30m in #10, not a current countdown. Pet queue0/1 busy. Do not cancel, duplicate, or finish using gems/items.
+- Home builders6/6 free; Laboratory1/1 idle. No building/Lab upgrade started. Indicators and prices live-checked.
 
-Builders 6/6 idle, Lab idle. Phoenix 1 -> 2: ~17h30m remaining at last report
-(finishes ~2026-11-15 ~03:35 PT). Builder Base balances at Terra #9 close:
-2,503,119 G / 1,819,325 E.
+## Queue and funds
+- Firespitter x2 menu price8,500,000G /4d6h; Multi-Gear8,500,000G /4d; Ricochet6,000,000G /3d12h. Unaffordable.
+- Pet House11=8,250,000E /4d; Blacksmith10=9,000,000E /5d; Barracks19=13,000,000E /5d6h. Unaffordable. Warden71=10,250,000E /4d.
+- Balloon12 research=8,750,000E /5d12h, unaffordable. Cheaper crafting/Archer Tower/Battle Drill suggestions were not started because they are outside the current queue/Army-v1 focus. No broad Lab affordability claim beyond inspected entries.
+- Keep resources for queue. No wall overflow spending, no Forge conversions.
 
-(Gems must never go down by agent action — see CHARTER rails. If gems differ, explain why in the log.)
-Gem change explained: 2,803 -> 2,828 came from COLLECTING (+19 Gem Mine, +6 from a removed
-normal obstacle) — collection only, no spend.
+## Permissions and learning
+- GPT Tier1 earned: B0 seeds#1/#3 + live circuit#6, accepted by Fin.
+- B1 passed with qualifications per Fin: all four available practice heroes deployed, one manual Queen ability firing demonstrated, ten-Hog bulk, two spell inputs and Siege confirmed. Manual timing/reliability across heroes and spell effects remain unproven. Portrait selection preferred; hotkeys unconfirmed.
+- B2 not attempted; Tier2 farming LOCKED. Tier3 stakes LOCKED. No reliable2star claim.
+- Practice control result #7:55%,1star on Bane of the Ring; voluntarily ended with unused troops, NOT a B2 attempt or best-effort combat standard.
+- Event obstacles NEVER clear. Shiny Ore Meteorite was selected while returning from a prompt but not removed; all protected/uncertain obstacles untouched. Only named normal BB Trunk removed.
 
-## Builders (6)
+## Next operator
+1. Read README, CHARTER, this state, priorities, playbook, lessons, benchmarks, daily/attack/base/template docs and superseding corrections. Check live balances and Phoenix timer.
+2. Next chore circuit includes the full CHECK sweep: Treasury room and planned queued spend, free Forge status CHECK ONLY, helpers, Trader/free claims, tasks/events/inbox/achievements and BB defense loot. These remain unverified, not assumed available. No blind Claim All.
+3. Further training: exact Army-v1 and CC payload inspected before eligible campaign/Friendly B2 series. Record spell-effect evidence and latency; no preset Practice score counts toward B2. No multiplayer farming before B2.
 
-| # | Working on | Finishes |
-|---|---|---|
-| 1–6 | Idle (at snapshot) | — |
+Current game left at Home Village, no battle running, no pending confirmation, no account/social settings changed. Original packs archived. Detailed evidence/failures in SESSION-LOG #6/#7.
 
-## Laboratory
+Fin final sync: current resources/Phoenix timer mirrored and on-queue upgrade approved; no setup blockers. Lower-priority on-queue work may proceed while higher priorities wait only if it does not consume their needed slot or reserved resources. Idle builders are acceptable while saving; cheap off-queue work is not authorized.
 
-Idle (at snapshot). Current research: none.
 
-## Upgrade queue position
+## 2026-11-14 interrupted collection handoff (#8)
+Last observed Home Village balances: 3,783,435 gold / 3,654,421 elixir / 9,453 dark elixir / 2,828 gems. The first collection attempt failed with "no screenshot targets found"; no collection or after balance verified. Subsequent window activation reported user input detected, so the operator stopped. Last observed screen was Home Village without a dialog or battle; current screen unverified. Builder Base balances and Phoenix timer remain the prior observations above, not live rechecked. Collection circuit remains outstanding; see SESSION-LOG #8. Existing permissions and in-progress upgrade remain unchanged.
 
-Working from PRIORITIES.md. Next up: (1) place/build Firespitter x2 (8.5M G each —
-live-checked cost, currently unaffordable), (2) remaining merges (Multi-Gear 8.5M G,
-Ricochet 6M G — unaffordable), (3) Pet House → 11 (8.25M E), Blacksmith → 10 (9M E),
-Barracks → 19 (13M E) — all live-checked by GPT 2026-11-14, all currently unaffordable.
-Saving toward Tier A is the plan; builders idle is ACCEPTABLE while saving (do not
-fill them with off-queue items).
+## 2026-11-14 resumed collection (#9)
+Latest verified Home: 3,852,412 gold / 3,724,771 elixir / 10,185 dark elixir / 2,828 gems. Builder Base: 2,503,119 gold / 1,819,325 elixir. Gem Mine had no visible collection bubble; gems unchanged. Phoenix level 2 upgrade showed 17h 37m 11s remaining at inspection. No Loot Cart identified in visible views; full perimeter not verified. Home Village left with no dialog or battle, zoomed in. See SESSION-LOG #9 for missed input and delayed transitions. Existing permissions unchanged.
 
-## Heroes / pets being leveled
+## 2026-11-14 coordinator practice (#10) - latest observation
+Home 3,868,082G /3,756,184E /10,185DE /2,828 gems. Builders6/6 free, Lab1/1 idle. Phoenix still in progress, label about17h30m. BB remains #9 observation. Sol completed Bane of the Ring preset Practice:54%,1star,TH missed, voluntarily ended after all troops deployed; unused spells, poor slow sequencing, no B2 credit or promotion. Terra completed collection then relinquished controls before Sol began. Home left without dialog/battle; rating prompt dismissed Later. Fin sync pending. Earlier notes retained as history; this paragraph supersedes old balances. See #10.
 
-- **Phoenix 1 -> 2 IN PROGRESS** (Pet House slot): started 2026-11-14 ~09:33 PT,
-  40,000 DE, 18h — finishes ~2026-11-15 03:33 PT. Started from PRIORITIES Tier D as
-  productive catch-up: higher tiers verified unaffordable, and a pet-slot upgrade
-  consumes neither a builder nor the Gold/Elixir being saved for Tier A.
-  Precedent rule (Muse, 2026-11-14): a lower queue tier may start while higher tiers
-  are unaffordable ONLY if it is on-queue and does not consume the slot or the saved
-  resource the higher tier is waiting on.
-Permanent hero levels: see ACCOUNT.md.
+## Fin audit completed - 2026-11-14 (supersedes pending-sync notes)
 
-## Open conflicts (do not quote either side as settled)
-- **Pet levels (2026-11-14, nearly settled):** snapshot: Unicorn 10 / Frosty 3 /
-  Owl unlisted. Boosted result screen: 15 / 10 / 15 (display-inflated by the
-  Hero Boost; exact boost math does not reconcile and is not worth forcing).
-  A later army-screen read (8/3/10) was WITHDRAWN by Sol as misattributed.
-  Unboosted SB-2 result row: **Unicorn 10 / Frosty 3 / Electro Owl 8** — Unicorn
-  and Frosty now have two agreeing reads; Owl 8 rests on the result row.
-  Minion Prince petless in every read. A Pet House inspection remains the final
-  settler, but Unicorn 10 / Frosty 3 may be quoted as twice-observed.
-- **Boost stratification (2026-11-14):** the Hero Boost expired naturally (no item
-  used) between SB-1 and SB-2. ALL earlier results (B1 drills, A1, SB-1) are
-  BOOSTED-stratum evidence; SB-2 onward is UNBOOSTED (true levels MP 70 / Q 95 /
-  RC 45 / W 70). Reviews report strata separately; unboosted trials are the
-  operative evidence going forward. No paid boost, ever — and a Hero Potion would
-  be a magic item (Tier 3) anyway.
-- **CC contents UNVERIFIED:** grey Hog/Ice-Golem icons on the siege selector are
-  NOT confirmed payload (Sol withdrew that inference — a scout tooltip showed the
-  Siege Barracks EMPTY). Read the actual CC/army screen before any TH-plan talk.
+Fin received the complete #8-#10 report in Muse's Clash side chat and audited it. Latest verified Home remains 3,868,082 gold / 3,756,184 elixir / 10,185 dark elixir / 2,828 gems; BB remains #9's 2,503,119 gold / 1,819,325 elixir. Builders 6/6 free, Lab 1/1 idle, Phoenix upgrading with last observed label about 17h30m. These are session observations, not a fresh live check or current countdown.
 
-## Open notes
+Fin accepted the supervised handoff and Sol's review of Terra's direct STATE edits as a one-time exception. Future hands draft; the judgment seat verifies and applies state changes. CHARTER contains the ratified caps. #8/#9 are [Terra], supervised by Sol; no pooled qualifications. #9 is not a verified full circuit because the full perimeter/Loot Cart check was incomplete.
 
-- Sky Wagon cap conflict in Fin's research library (TH17 cap 2 vs 4): **do not upgrade
-  Sky Wagon past L2** until JJ checks his Lab screen or Fin resolves it.
-- Spell Tower L4 (TH17 vs TH18) is leaning-TH17 but unconfirmed: check the upgrade
-  button in-game before spending on it, and log what the game says — that settles it.
-- GPT's attack baseline is poor (31%, 0★ practice). Attacking work is benchmark-gated.
+Manual ability mechanism proven on two heroes, timing reliability unproven. #10 remains 54%, one star, preset Practice, no B2 credit or promotion. Tier 2 and Tier 3 remain locked. Full daily CHECK sweep, exact Army-v1 training and CC payload inspection remain outstanding before eligible B2 work. No measured Terra speed/usage advantage. Fin mirrored the latest balances and Phoenix state in his master pack; local rules and troop-identification lesson now match his audit.
+
+## JJ override - 2026-11-14 #11 (current permissions)
+JJ explicitly directed real multiplayer attacks and accepted rank loss. Sol may run regular matchmaking tests now; earlier campaign-only/farming-lock wording is superseded for this task. No Ranked enrollment or Builder PvP, no gems/items/money purchases. Series A closed incomplete (A1 100%/3stars; A2 physical-user interruption,4%/0stars excluded). Five regular Battles Series B commenced, no reliability conclusion yet. Expanded supervised chores governed by TERRA-SCOPE.md, not yet executed by Terra.
+
+
+
