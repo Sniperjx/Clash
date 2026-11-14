@@ -109,3 +109,10 @@ Runner-up risk, not in the top three: **Play Games window latency**. My own dire
 - Rule: a Haiku spawn must carry a circuit's worth of frames to pay for itself. Single reads stay Sonnet-direct.
 - [MEASURED] P1-lite accuracy 14/15 (93%) on game fields; the miss was a currency icon (Elixir read as Dark Elixir). Standing constraint (Fin ruling): any Haiku read involving currency icons or prices is re-verified by the seat before anything acts on it, whatever P1 eventually scores.
 - Still open: full P1 (10 live screens), A2 two-way circuit token count (subagent + seat), P2-P5.
+
+## Addendum A2-2 (2026-11-14, JJ + Fin ruling) — Haiku hands trial closed
+- Decision: JJ cancelled the Haiku-as-hands idea on 2026-11-14 ("doesn't work, I'll leave it to Sonnet"). The seat is Sonnet-direct (named Scout) for all game input. Haiku stays reader-only under the standing constraints, and is not scheduled.
+- [MEASURED] Final trial results (SESSION-LOG #19, #20, #21): three Haiku subagent runs (77.6k, 83.3k, 91.4k tokens, about 252k total) produced zero removals because input actions were stopped with "user interrupt"; a separate Haiku session got "The desktop shell is frontmost" refusals on every click; both read the village and balances correctly when it only had to look. Cause of the click refusals is [UNKNOWN] (hypothesis: per-session allowed-apps / frontmost-window check). The computer-use lock is exclusive per session: while one session uses the computer, another gets "Another Claude session is currently using the computer".
+- A2 single-frame probe: 63.6k tokens for one image; village misread (Home vs Builder Base) and 2 bubbles missed. P1 (10 live screens) is DROPPED by Fin ruling, not failed: with no Haiku consumer left there is nothing for a qualification to unlock. Re-run P1 the day a real batched-reader need appears.
+- Cost record: the about 252k tokens spent on three zero-removal runs is the most expensive lesson of the Haiku trial; do not re-propose Haiku hands casually.
+- Standing rule retained: any Haiku read of currency icons or prices is re-verified by the seat before acting.
