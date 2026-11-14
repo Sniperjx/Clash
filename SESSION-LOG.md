@@ -300,3 +300,6 @@ Per Fin's Hammer Jam ruling (50% cost/time on Home Village upgrades until Nov 16
 - SC-2 vs Ryo_19 (TH ~15, loot 157k G, dense air defenses): top-left edge, no deployment misses. Rage x1 on a verified Dragon cluster, Warden ability x1, Queen ability x1, no Freeze. RC died early. Result: 1 star, 55%. Loot +134,611 G / +89,264 E / +8,570 DE. Entry 1,600 G.
 - Balances after SC-2: Gold 1,487,509 / Elixir 4,201,372 / DE 59,036. Free builder still idle; ladder items still not affordable (Pet House 8.25M E, Ricochet 6M G, Camp 8.5M E, Dragon 9.25M E).
 - Both trials ended with all troops dead before the clock; trials 1-2 avg 67%, 0 trials at 2 stars so far.
+- SC-3 vs Jiy (TH ~16, loot 544k G / 568k E): top-left edge, 0 deployment misses. Rage x1 (placement looked off-cluster, circle landed near the left of the Dragon line, not on it: spell miss, [ESTIMATE]), Warden ability x1, Queen ability x1, no Freeze. All heroes down by 55%. Result: 1 star, 56%. Loot +326,694 G / +360,009 E / +9,452 DE. Entry 1,600 G.
+- Unexpected dialog before SC-3: Google Play "Rate Clash of Clans" prompt (LATER / NEVER / REVIEW). Dismissed with LATER (no side effects). No cost.
+- Balances after SC-3: Gold 2,070,603 / Elixir 4,819,381 / DE 70,294. Series C so far: 1* 79%, 1* 55%, 1* 56% (avg 63%, 0 trials at 2 stars). Ladder still not affordable.
