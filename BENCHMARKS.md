@@ -22,6 +22,16 @@ LOCKED until B0 completes. There is no drill exception unless JJ grants one expl
 and it is recorded in CHARTER.md. Order of operations for GPT is therefore:
 B0 session -> Tier 1 -> B1 drills -> B2 attempts.
 
+**v1.2 ruling — dispositioned steps (Fin, 2026-11-14, Claude seat #19 question):** a
+circuit step counts as completed when it is performed OR inspected and correctly
+dispositioned with the reason logged — e.g. Clock Tower on cooldown (inspect, press
+nothing), Loot Cart verified absent after a full-perimeter scan or by JJ. B0 measures
+the operator, not the calendar; a 22h cooldown must not gate the benchmark. The Clock
+Tower free-boost ACTIVATION remains an unproven first-use action, logged standalone
+whenever the cooldown has lapsed; it does not block circuit counting. The zero
+wrong-screen-error standard is unchanged: a session with navigation mis-taps does
+not count toward the 3, however harmless the mis-taps were.
+
 ## B1 — Control drills (attacking prerequisite; Tier 1 — unlocks after B0)
 
 On any Practice base, demonstrate each, confirmed on the result/post-action state.
