@@ -268,3 +268,12 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
 - In progress (time left at screenshot): Archer Tower 2h 29m, Giant Bomb 5h 59m, Dragon Duke 23h 59m, Multi-Gear Tower 3d 23h, Firespitter 4d 5h, Clan Castle 4d 23h. Suggested (not started): Crafting Station 4h/30,000 DE, Wall x213 2,500,000 elixir.
 - Treasury status unknown (the drop suggests JJ may have used it for these); Scout did not touch it. Phoenix upgrade (due ~03:33 PT Nov 15) not visible in this list.
 - JJ: answers to Scout's attack questions come later; Fin is preparing attacks for the seats to try.
+
+## #27 - Scout - Loadout snapshot via Battle > Edit Army (look-only, 2026-11-14 ~1:05 PM PT)
+Source: my own live read of Edit Army / hero pickers. No spend, nothing equipped or changed. Balances at read: Gold 306,175 / Elixir 3,246,154 / DE 44,789 / gems 2,854. Top-right boost slot reads "None" [MEASURED].
+- Heroes in army (4/4): Minion Prince 70 (NO pet; Henchmen Puppet 9, Dark Orb 9); Archer Queen 95 (pet L10, white, likely Unicorn - name unverified; Giant Arrow 18, Magic Mirror 20); Royal Champion 45 (pet L3, purple - name unverified; Rocket Spear 18, Electro Boots 20 - icon-identified); Grand Warden 70 (pet L8, icy-white, likely Frosty - unverified; Eternal Tome 18, Fireball 20 - icon-identified; skin badge present).
+- ANSWERS: Eternal Tome = 18. Magic Mirror = 20 (snapshot's 20 confirmed; the "27" repo observation is not supported by this read). Item names for Rocket Spear/Electro Boots/Fireball are from icons, only Henchmen Puppet and Dark Orb were opened via the info "i" (confirmed).
+- Ores (seen on Henchmen Puppet info): shiny 3,534 / glowy 492 / starry 212.
+- Army currently trained 320/320: 2 Dragon Rider L5, 12 Dragon L11, 6 Balloon L11 = Army of Record v1 troops. Spells 11/11: 4 Rage L6, 3 Freeze L7. SIEGE 3/3 IS TRAINED: x1 L3 and x2 L4 (not identified by name) - conflicts with the "no siege" condition unless not deployed.
+- Clan Castle (shown on Edit Army while upgrading): troops 50/50 = Hog Rider L9 x1, a red-balloon troop L5 x2 (unidentified), Yeti L7 x3; spells 3/3 and siege 2/2 slots show faded placeholders. CC upgrade in progress, never deployed this series.
+- Saved Recipes (old presets): Army 1 (6 Dragon, 7 Dragon Rider?? as displayed x6/x7/x2/x1 mix with Baby Dragons, CC loadout) and Army 2 (7 Dragon Rider-icon x7 L5 + 6 Dragons + Baby Dragons + 3 siege). Both are the old presets JJ authorized clearing. NOT cleared yet.
