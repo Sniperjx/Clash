@@ -195,3 +195,10 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
 - Verdict: P1 NOT passed (14/15 < 95%, and not the live 10-screen form). No Haiku envelope proposed. Haiku reads of currency icons/prices must be re-verified by Sonnet.
 - Also #16: Fin approved the seat-design merge; main now e89d257+.
 - #17 incident (self-report, Sonnet): trying to board the boat from Builder Base (tap at ~1105,195) opened the Shop/Treasure screen (gem packs and storage fills). Nothing was tapped there; closed with the red X. Gems 2,834 before and after, no spend. Lesson: the BB boat is not at that spot in this layout; take a fresh frame and look for the boat before tapping near the top-right, since the Shop opens on a miss. Game left in Builder Base. Treasury read and the Home return NOT done this session.
+
+## #18 — Claude seat, Tier 0 Home collection #2 + status (Sonnet direct) — 2026-11-14
+- Left Builder Base by tapping the boat hull below the gem bar (lesson from #17). Home confirmed.
+- Home collection, 15 taps: Gold 17,992,559 -> 18,008,846 (+16,287); Elixir 12,480,483 -> 12,497,122 (+16,639); DE 91,939 -> 92,116 (+177). Gems 2,834, builders 6/6. No spend.
+- Incident (self-report): batch tap again landed on a wall (Wall L17 menu, nothing pressed, no cost); deselected by tapping empty ground. THIRD wall mis-tap in batched Home collection (#14 selection, #16, #18): batched blind taps on Home bubbles are not reliable; the bottom wall line sits under bubble coordinates after view shifts. Rule for B0: batches of <=5 taps, fresh frame between, or tap bubbles one by one near wall lines.
+- Loot Cart: NOT positively identified (no cart bubble clearly seen; an unidentified green bubble near the top-left was not tapped, per TERRA-SCOPE "if positively identified"). Clock Tower is a Builder Base object; a timer building near the BB builder hut was seen but not inspected. Both still open. B0 stays 0/3.
+- Branch claude/seat-addendum-a2 pushed for Fin review (A2 batching addendum, currency re-verify constraint).
