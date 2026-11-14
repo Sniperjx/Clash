@@ -105,6 +105,20 @@ a mix — converts into account progression while JJ is AFK**, on schedules,
 inside the charter. Staffing follows usage: whichever house has usage to burn
 staffs the seats; the folder and the rules are constant.
 
+**North star (JJ, 2026-11-14): competence at LOW usage.** The system must
+learn to play well without burning usage on constant screenshots, so the same
+budget covers more work. Efficiency is therefore a first-class metric,
+reviewed like battle stats: usage per chore circuit, per battle, per
+challenge, logged per session. The levers: hands-first volume (cheap models
+see the many frames; judgment sees summaries and decisive frames only),
+state carried as text instead of re-screenshotted, sessions batched (one
+circuit does all chores; attacks run in series), settled-source reads over
+live spectating — and above all RELIABILITY, because retries, recoveries,
+and verification loops are the hidden usage sink. Fundamentals get reliable
+first; clan management, wars, and CWL (Phase 3) are earned on top of a cheap,
+dependable base, not bolted onto an expensive one. JJ is out of the loop for
+operations; the seats and Muse run it and bring him results.
+
 - **Phase 1 — the Claude seat (NEXT).** Sonnet designs how a Claude seat runs
   efficiently: Sonnet as the seat's judgment, Haiku as its hands (the
   Sol/Terra shape, Claude-flavored) — what Haiku can scout, search, collect,
