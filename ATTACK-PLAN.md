@@ -124,8 +124,8 @@ Rules:
 - **Ability policy (optional, never load-bearing) — AMENDED by the Series B
   review (2026-11-14):** the original sub-40%-health trigger is RETIRED — at that
   health the auto-trigger usually wins the race (RC and Queen both auto-fired
-  before deliberate clicks in SB-3; RC deliberate record across the series is
-  1 success / 2 autos). Deliberate attempts now key to CORE ENTRY for Warden and
+  before deliberate clicks in SB-3; the corrected RC record is one manual fire,
+  SB-1 in the boosted stratum, and AUTO in SB-2 through SB-5). Deliberate attempts now key to CORE ENTRY for Warden and
   Minion Prince (visible effects in SB-4 and SB-5) and to ~50-60% health for the
   Queen (clean deliberate fires in SB-2 and SB-5). RC is treated as AUTO by
   default: an attempt is optional, never budgeted, never counted against the
@@ -178,36 +178,59 @@ headline average assembled from unlike conditions is exactly the statistical
 stretch this system exists to refuse. S1-B (no-siege, "S1-B0") remains the
 standing script, status PROVISIONAL.
 
-Cause review across five trials: deployment is SOLVED (mean window 14.706s,
-range 13.019-18.231s, one recovered miss in five trials, zero aborts). Spell
-gates mostly worked (named Freeze targets hit; two reserve-Rage placement
-lessons absorbed into the Rage 4 rule above). Abilities: mechanism reliable,
-timing policy amended above. **The binding constraint is now pathing: the
-dominant failure is the line splitting or peeling against compartment/central-TH
-bases (SB-5 the pure case: heroes NW, small center force, pack collapsed under
-dense core defenses, TH standing) — ability execution cannot rescue bad
-pathing, and no spell rule fixes geometry.** Base-class honesty mattered: the
-two 100% results came against the softest bases; results declined as bases
-hardened (74 / 59 / 36), which is information, not regression.
+Cause review across five trials (precision fixes by Sol, accepted 2026-11-14):
+deployment is DEMONSTRATED at 13-18s windows (mean 14.706s, one recovered miss
+in five trials, zero aborts) — demonstrated under these conditions, not
+universally solved. Spell gates mostly worked (named Freeze targets hit; two
+reserve-Rage placement lessons absorbed into the Rage 4 rule above), with one
+explicit deviation: in SB-5 a core Rage was cast BEFORE its ~25% milestone —
+spell execution was not exact in that trial. Abilities: mechanism reliable;
+the RC record is corrected to one manual fire (SB-1, boosted stratum) and AUTO
+in SB-2, SB-3, SB-4, and SB-5 (no late manual clicks in SB-4/SB-5). **The
+binding constraint is now pathing: the dominant failure is the line splitting
+or peeling against compartment/central-TH bases (SB-5 the pure case: heroes
+NW, small center force, pack collapsed under dense core defenses, TH standing)
+— ability execution cannot rescue bad pathing, and no spell rule fixes
+geometry.** Base-class honesty mattered: the two 100% results came against the
+softest bases and results declined as bases hardened (74 / 59 / 36) — an
+uncontrolled trend that SUGGESTS base hardness drove the decline; it does not
+prove the cause.
 
-### Series C — PREDECLARED (the B2 attempt series; one variable: line geometry)
+### Series C — PREDECLARED (the B2 attempt series; a PACKAGE comparison)
 
-Script: **S1-B Narrow** — identical army, spells, gates, and ability policy;
-ONLY the deployment geometry changes: the entry front compresses to roughly
-60% of the edge; funnel heroes take the corners OF THAT SEGMENT (not the full
-edge's corners); all four heroes deploy immediately behind the line's center
-instead of splitting to flanks. Hypothesis: a narrower, denser front with
-heroes embedded prevents the peel/split that killed SB-5.
-Selection refinements (from Series B scouting data): record TH position and
-entry side relative to it; on central-TH bases prefer a TH-side entry segment
-(hypothesis from SB-4's direct-TH lane vs SB-5's opposite entry, n=2 — weak
-evidence, tested here); count Air Sweepers covering the entry segment — two
-sweepers blowing into the entry = pick another segment or NO-GO.
-Conditions: 5 Battles trials, unboosted, own spells only, no CC/siege (unless a
-Series D ruling changes the siege picture), every trial logged with base class,
-TH position, sweeper note, boost status. **Pass = the B2 bar on THIS clean set
-(>= 70% avg, >= 3 at 2+ stars), and a pass here is a B2 pass** — Tier 2 farming
-unlocks on it. Review splits strata as always.
+Honest framing (Sol's correction, accepted): Series C changes geometry AND
+adopts the amended ability policy AND the Rage 4 largest-cluster gate together.
+It is therefore a package comparison — S1-B Narrow package vs the Series B
+record — and its results support conclusions about the PACKAGE, never causal
+claims about geometry alone.
+
+Script: **S1-B Narrow package**, exact geometry (Sol's spec, confirmed —
+it resolves a contradiction in the first draft, which put Q/RC both at the
+corners and at the center): pick an entry segment spanning ~60% of one edge.
+Queen and Royal Champion deploy at the OUTER CORNERS OF THAT SEGMENT as the
+funnel pair and STAY wide — they are not redeployed to the center. Dragons go
+down in two groups of 6 and 5 across the segment's span; Dragon Riders,
+Balloons, Warden (air), and Minion Prince deploy at the CENTER, immediately
+behind the line. All seven spells keep their Series B jobs; the amended
+ability policy (core-entry W/MP, ~50-60% Queen, RC auto-by-default) and the
+Rage 4 >= 4-largest-cluster gate apply as written above.
+Selection refinements: record TH position and entry side relative to it; on
+central-TH bases prefer a TH-side entry segment (hypothesis from SB-4 vs
+SB-5, n=2 — weak evidence, tested here); count Air Sweepers covering the
+entry — if two sweepers face the chosen segment, RE-PICK the entry segment
+(or NO-GO). A strong central-ring base may be attacked deliberately and
+labeled a STRETCH test in its trial entry. Never assume low walls = safe:
+walls were not the variable that hurt in Series B; core density and pathing
+were.
+Conditions: 5 eligible Battles trials — unboosted, own spells only, no CC
+troops/spells, no siege; stable equipment, pets, and readiness across the
+series (any change voids comparability and is logged); every trial logged
+with base class, TH position, sweeper note, and ALL failures included.
+**Pass = the B2 bar on this clean set (>= 70% avg, >= 3 at 2+ stars), and a
+pass here is a B2 pass** — Tier 2 farming unlocks on it. Language discipline:
+even a pass earns only "B2 passed." A "reliable 2-star" claim additionally
+requires a comparable 10-trial window at >= 8 of 10 two-star results.
+Review splits strata as always.
 
 ### Series D — QUEUED, BLOCKED on inspections (supported TH path)
 

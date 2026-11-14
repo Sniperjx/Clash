@@ -3,24 +3,28 @@
 **Update this file at the end of every session. It is the single source of truth for
 "where are we right now." If it goes stale, the next agent wastes a session.**
 
-Last updated: 2026-11-14 ~10:46 PT (Sol report — SB-4 verified 59%/2 stars from
-the Attack Log, SB-5 in progress; mirrored by Muse)
+Last updated: 2026-11-14 ~10:58 PT (Sol closeout — Series B complete, attack
+workstream closed for the turn; mirrored by Muse)
 
 ## Resources
 
 | Gold | Elixir | Dark Elixir | Gems |
 |---|---|---|---|
-| 6,602,665 | 6,424,327 | 32,051 | 2,833 |
+| 7,712,116 | 6,660,631 | 32,093 | 2,833 |
 
-Treasury (banked, NOT in the totals above): 2,200,000 G / 2,200,000 E / 11,000 DE
-+ ores (2,100 Shiny / 118 Glowy / 2 Starry) — TWO identical Star Bonus deliveries
-(after SB-2 and after SB-4), both acknowledged, neither withdrawn.
-**MILESTONE: Firespitter #1 is now affordable** — 6,602,665 + 2,200,000 =
-8,802,665 >= 8,500,000. Withdrawal under the item-20 rule (room + planned spend)
-funding PRIORITIES item #1 is a Tier-1 Sol action when the workstream turns to it.
-Measured prices: ENTERING matchmaking costs 1,600 Gold and each Next costs
-1,600 Gold (this resolves SB-3's -3,200 gold gap exactly: entry + one Next —
-not two skipped opponents). Phoenix 1 -> 2: ~16h40m remaining at last report.
+(SB-5's settlement reconciles: Elixir and DE deltas match its loot exactly;
+Gold = loot - 1,600, the matchmaking entry fee. Home idle at closeout.)
+Treasury: two Star Bonus deliveries were OBSERVED via popups (after SB-2 and
+after SB-4), each 1,100,000 G / 1,100,000 E / 5,500 DE + ores — so 2.2M G banked
+is a RECEIPTS INFERENCE, not an inspected balance. The Treasury's current
+balance and capacity MUST be inspected before any withdrawal math is treated
+as fact; the "Firespitter affordable" conclusion is provisional on that read.
+Withdrawal rule stands (CHECK item 20): only with storage room + a planned
+queue spend. Measured prices: ENTERING matchmaking costs 1,600 Gold and each
+Next costs 1,600 Gold (this resolves SB-3's -3,200 gold gap exactly: entry +
+one Next — not two skipped opponents). Also corrected: SB-3's stray "RC 50"
+read — the Attack Log's 45 stands; the 50's cause is UNKNOWN (boost was
+inferred, never proven). Phoenix 1 -> 2: ~16h46m remaining at closeout.
 
 DRIFT NOTE (2026-11-14 ~10:15): opening balances rose vs the #10 close (+29,230 G /
 +29,778 E / +314 DE / +5 gems) with no agent action in between. Direction is UP only
