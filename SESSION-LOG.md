@@ -179,3 +179,10 @@ Handoff: PC held by Claude from JJ's request; Sol not operating. Config: JJ-supe
 
 ## #15 - 2026-11-14 [Claude seat] A1 prerequisite test: can a Haiku subagent use computer-use (look-only)
 PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent, look-only brief (no click/type/key). Result [Haiku, supervised by Sonnet]: tools callable, Clash already on access list so no new approval; one screenshot read Home 17,948,105 G / 12,435,389 E / 91,463 DE / 2,833 gems. Sonnet's own read of the same screen (taken while the subagent ran): identical, 4/4 fields. Cost [MEASURED, one run]: 71,605 subagent tokens, 4 tool calls, ~9s wall. Caveat: n=1, same screen, the 71k tokens is a cold-start overhead worth comparing against Sonnet doing it directly (A2). A1 = PASS for "subagent can call tools and read"; says nothing about P2/P4/P5 or clicking. Balance note: +63,935 G vs my 17,884,170 collection read, consistent with mine production over the hours; unverified source. No game input by anyone this entry.
+
+## #16 — Claude seat, Tier 0 chore circuit (Home only, PARTIAL) — 2026-11-14 (Sonnet direct)
+- Merged claude/seat-design to main (e89d257) after Fin's approval; CHARTER stale-tier nits fixed in the same merge.
+- Home collection, 15 bubble taps in one batch: Gold 17,975,354 -> 17,992,559 (+17,205); Elixir 12,462,878 -> 12,480,483 (+17,605); DE 91,811 -> 91,939 (+128). Gems 2,833 unchanged, builders 6/6, no spend.
+- Incident (self-report): one tap landed on a wall (Wall L17 selection, upgrade buttons shown, nothing pressed, no cost). Deselected by tapping empty ground. Second occurrence of wall mis-tap in batched clicks; lesson: bubble centers near wall lines need a fresh frame check, not blind batches.
+- NOT done: Builder Base collectors/Gem Mine, Loot Cart, Clock Tower. B0 count stays 0/3 (partial circuit does not count).
+- Frames: 3 screenshots, 1 batch of 16. No subagent used.
