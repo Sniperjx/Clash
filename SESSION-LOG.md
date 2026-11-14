@@ -262,3 +262,9 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
   - end: 100%, 3 stars, 751,194G/783,875E/7,803DE. Troops expended row visible (12 dragons class unit, 2 riders, 6 balloons, hero/spell icons; exact spell counts not read).
   - Matches the Attack Log row exactly (outcome fields). Deployment window and spell timing NOT captured at this sampling rate; that is the layer the video pass should supply.
 - Nothing pressed except Replay and Return Home. Balances unchanged after: Gold 18,183,868 / Elixir 12,675,930 / DE 94,008 / gems 2,854.
+
+## #26 — JJ started upgrades (JJ's own action, reported by JJ with screenshot) — 2026-11-14 afternoon
+- Source: JJ screenshot of the Buildings & Heroes list; not read by Scout live. Balances shown: Gold 269,407 / Elixir 3,212,267 / DE 44,393 / gems 2,854 (was 18,183,868 / 12,675,930 / 94,008 after #23; large spend by JJ, not Scout). Builders/helpers: two "Available" shown.
+- In progress (time left at screenshot): Archer Tower 2h 29m, Giant Bomb 5h 59m, Dragon Duke 23h 59m, Multi-Gear Tower 3d 23h, Firespitter 4d 5h, Clan Castle 4d 23h. Suggested (not started): Crafting Station 4h/30,000 DE, Wall x213 2,500,000 elixir.
+- Treasury status unknown (the drop suggests JJ may have used it for these); Scout did not touch it. Phoenix upgrade (due ~03:33 PT Nov 15) not visible in this list.
+- JJ: answers to Scout's attack questions come later; Fin is preparing attacks for the seats to try.
