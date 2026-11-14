@@ -27,7 +27,7 @@ Current tier status (update this table as evidence lands):
 | Agent | Chores | Housekeeping | Farming | Stakes |
 |---|---|---|---|---|
 | GPT | Tier 0 proven | Tier 1 earned: seeds #1/#3 + full circuit #6; Fin accepted 2026-11-14 | Locked; B1 passed (#7, Fin audit), B2 NOT passed (Series B), Tier 2 locked | Locked; no JJ Tier 3 grant |
-| Claude | Tier 0 (default) | Locked | Locked | Locked |
+| Claude | Tier 0 (default) | Tier 1 CLAIMS ONLY — JJ grant 2026-11-14 (free [CLAIM]s under the claim rules, incl. Treasury Collect when DAILY-ROUTINE #20's conditions are met; queued upgrades, donations and Practice remain locked pending B0/B1) | Locked | Locked |
 
 ## Hard rails — never, at any tier
 
@@ -73,7 +73,7 @@ under "Proposals for JJ" and keep obeying the rail until he rules.
 - Hands reviewed in the same session operate under the seat's capped permissions. An unattended independent session requires the hands model's own B0/B1 evidence.
 - All hard rails bind the hands identically. A violation ends the experiment and is logged against the seat.
 
-Tier-table clarification: GPT judgment seat has a qualified B1 pass from #7 accepted by Fin. B2 remains unattempted; Tier 2 farming and Tier 3 stakes remain locked. Terra does not inherit independent qualifications.
+Tier-table clarification: GPT judgment seat has a qualified B1 pass from #7 accepted by Fin. B2 was attempted in Series B and NOT passed; Tier 2 farming and Tier 3 stakes remain locked. Terra does not inherit independent qualifications. JJ grant (2026-11-14, relayed to Fin): the Claude seat is approved for Tier 1 [CLAIM] actions only — every claim logged, choice nodes decided by the seat and logged with the pick, paid tracks and gem/medal-priced items never; this grant does not unlock any other Tier 1 activity for Claude.
 
 ## Expanded supervised chores - 2026-11-14
 JJ requested supervised Terra collections,normal obstacles,free claims,requested donations and Clan Capital chores;Builder Base PvP explicitly excluded. TERRA-SCOPE.md controls the bounded execution flow and supersedes the earlier blanket hands donation ban for Sol-reviewed exact visible requests only. Hands still cannot decide queues,spend on conversions/contributions,choose rewards,or independently apply STATE/PRIORITIES changes. Free Forge collection is allowed only after first live verification as a zero-cost collection;conversion slots remain outside routine. All hard rails unchanged.
