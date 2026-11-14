@@ -15,6 +15,8 @@ Fin/Sol plan at JJ's request, 2026-11-14. This supersedes the earlier blanket ha
 
 All hard rails bind:never gems,money,event obstacles,account changes,clan messages or unauthorized upgrades. No research/queue choices/reward-choice resolution by Terra. Stop,screenshot and report on unexpected dialogs,costs outside specified normal obstacle removal,choice nodes,name mismatch or unexplained decrease. Never bypass a user-input stop. Close with per-section before/after balances,claims/obstacle names/costs,misses,gaps,screen state and explicit control relinquishment. Sol verifies before applying the report. Expanded chores are planned,not claimed demonstrated until performed.
 
+**Graduation rule (Fin ruling 2026-11-14, graduated from the appendix):** after an item's stated clean first-use count in the appendix (the LIVE CHECK count), the seat may move that item to post-hoc review. The seat decides and logs it per item. Clean means no stop condition fired and the before/after ledger reconciled. Hands never self-graduate an item.
+
 ---
 
 # Appendix - Fin's earlier detailed draft (pre-live, kept for ruling; Sol's table above controls)
