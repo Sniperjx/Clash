@@ -321,3 +321,12 @@ Per Fin's Hammer Jam ruling (50% cost/time on Home Village upgrades until Nov 16
 - Opponent ayman/Devil's. Result: 28%, 0 stars, loot +88,868 G / +151,941 E / +668 DE. Balances after: G 6,144,841 / E 9,350,406 / DE 107,044 / gems 2,354.
 - Misses: first 2 deploy attempts (before battle start, then in the default zoomed-in view) all failed ("cannot deploy on red area"); fix = wait for the countdown to finish, then scroll-wheel down ~15 ticks to zoom out so the grass edge is visible BEFORE deploying. Then 4 more balloon/Warden clicks landed on red. Over the 2-miss rule: finished by surrender, pause-and-report.
 - RC swap tried (RC inner, Queen outer): Queen died within ~15 s anyway. Freeze not cast (nothing worth freezing; army gone). 2 Balloons, Minion Prince, Warden not deployed.
+
+### C2-3, C2-4, C2-5, Camp start (Scout seat, 2026-11-14 ~2:30-3:32 PM PT) [MEASURED]
+- Context: game window had closed between sessions; village was raided by AJ (shield 6h44m was active, battling breaks it). Relaunched via desktop shortcut. JJ ordered "go do 3 attacks", overriding the pause-after-2-misses rule for now.
+- CAMP ->13 STARTED at the Archer Tower slot: 8,500,000 E, 3d 17h (builder verified free via list first, then Treasury collect, then start). Dragon ->12 therefore waits.
+- C2-3 vs Ruben: 62%, 1 star, loot +803,292 G / +786,462 E / +6,900 DE. Balances G 6,449,600 / E 9,627,436 / DE 114,806 (before Camp spend).
+- C2-4 vs Yuvraj333 (OLD ONES): 58%, 1 star, +448,288 G / +450,837 E / +1,542 DE (88% bonus shown). Several red-area misses on the left/top-left (~6). Balances after: G 7,160,288 / E 1,842,273 / DE 118,196.
+- C2-5 vs Lily (GVNK Z., TH17): 100%, 3 STARS. New deploy spot: open grass on the RIGHT edge (about x1200, y390-440 after zooming out ~20 ticks, battle started), 0 misses. Order: Queen, RC, Warden, 12 Dragons, Riders, Balloons, Minion Prince; Rage x1 at the Town Hall path, Freeze x1 on the Eagle Artillery (engaging). RC died ~40%. Loot ~+500k G / +500k E (balance-derived). Balances after: G 7,621,895 / E 2,349,088 / DE 122,550, gems 2,354 unchanged. Rate dialog dismissed with LATER each time.
+- SERIES C-2 FINAL: 50%/1*, 28%/0*, 62%/1*, 58%/1*, 100%/3*. Average 59.6% (bar 70%), 2*+ trials 1 of 5 (bar 3). B2 NOT PASSED. Block of five complete; awaiting Fin's audit. Deployment misses: C2-2 6, C2-4 ~6, others 0.
+- Lesson: pick the grass edge nearest an open side with no cannons/walls (right edge here); left/top-left edge of some bases is full of red area.
