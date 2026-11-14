@@ -1,3 +1,9 @@
+# LATEST VERIFIED STATE - #23 Scout (Claude seat), 2026-11-14 ~12:45 PM PT (supersedes the blocks below; game is OPEN, JJ present)
+- Home (visually read): 18,183,868 gold / 12,675,930 elixir / 94,008 dark elixir / 2,854 gems after collecting 15 collector bubbles (7G/5E/3DE). Builders 6/6, Lab 1/1 (indicator only, not inspected). Treasury NOT collected (banked, per plan). Phoenix finish ~2026-11-15 03:33 PT (not rechecked). A Wall (Level 17) is left selected (harmless, nothing pressed); no battle, no dialog.
+- Builder Base: 2,604,852 gold / 1,913,046 elixir, builders 3/3. Two BB Small Trees removed (#20) and one more (#22); no BB obstacles seen left in the base. Clock Tower on cooldown until ~2026-11-15 09:25 PT.
+- Route BB->Home: viking-ship boat at the TOP-RIGHT dock of the BB map; pan so the base is lower-left, tap the boat once (no confirm). Home->BB: boat at the lower-left of the Home map. left_click_drag is erratic; use mouse_down + mouse_moves + mouse_up.
+- Seat: Scout = Claude seat, Sonnet 5.5, Tier 0 + Tier 1 claims-only. Haiku-as-hands CLOSED (JJ). GPT delegation: ChatGPT desktop app; accounts dabbingyeetster (5h 0%, resets ~3:07 PM PT) and plumisaiahrr (5h 3%, weekly 68%); account switching is JJ-present only (Fin ruling).
+- B0 still 0/3: #23 circuit had 2 look-only mis-taps (Wall select, Battle menu), so it does not count as clean. Details SESSION-LOG #21-#23.
 # Current user constraint - game CLOSED, #13
 JJ closed Clash and instructed Sol to continue collaborating with Fin without playing. Do not launch/control the game for this planning work. All resource/timer values below are historical live snapshots, not fresh readings. Claude local supplement: CLAUDE-LOCAL-SUPPLEMENT-2026-11-14.md. No schedule/account switching implemented.
 # LATEST VERIFIED STATE - #12 Terra pilot, 2026-11-14
