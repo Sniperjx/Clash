@@ -75,6 +75,8 @@ under "Proposals for JJ" and keep obeying the rail until he rules.
 
 Tier-table clarification: GPT judgment seat has a qualified B1 pass from #7 accepted by Fin. B2 was attempted in Series B and NOT passed; Tier 2 farming and Tier 3 stakes remain locked. Terra does not inherit independent qualifications. JJ grant (2026-11-14, relayed to Fin): the Claude seat is approved for Tier 1 [CLAIM] actions only — every claim logged, choice nodes decided by the seat and logged with the pick, paid tracks and gem/medal-priced items never; this grant does not unlock any other Tier 1 activity for Claude.
 
+JJ drill exception (2026-11-14, direct order in chat: start the troops so Scout can get attacks in): the Claude seat may run ONE Practice control proof ahead of its B0 completion, solely as the entry step of Fin's Series C [Scout seat] package (snapshot -> Practice proof -> SC-1..5 under Fin's stop rules). This exception covers that one Practice run and the five packaged Battles trials only; it is not a B1 pass, does not unlock general Tier 1 activity for Claude, and expires when the SC block ends or is paused under its stop rules.
+
 Decision protocol (JJ, 2026-11-14): judgment calls a seat meets in play — conditional claims, Treasury Collect, choice-node picks the pick rule doesn't settle, anything the plan doesn't already answer — go to Fin, not JJ. Fin decides against the plan of record (PRIORITIES queue, DAILY-ROUTINE rules, the CHARTER rails). Decisions are plan-driven: an action with no plan reason behind it doesn't happen just because it's permitted. Only tier grants, rail changes, and plan changes escalate to JJ.
 
 ## Expanded supervised chores - 2026-11-14
