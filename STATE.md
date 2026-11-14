@@ -89,3 +89,8 @@ JJ explicitly directed real multiplayer attacks and accepted rank loss. Sol may 
 
 
 
+
+## Scout seat - 2026-11-14 (Series C, logged in SESSION-LOG #27-#30) [Scout]
+Loadout frozen: Army 1 "Army of Record v1" (2 Dragon Riders L5, 12 Dragons L11, 6 Balloons L11; 4 Rage L6, 3 Freeze L7), siege 0/3, no boost, no CC. Presets: Army 2 = Hydra, Army 3 = Cleanup. Heroes: MP 70 (no pet), Queen 95 (Unicorn L10), RC 45 (Diggy L3), Warden 70 (Electro Owl L8). Jam (50% off Home Village until Nov 16 08:00 UTC) menu prices in #29: Dragon ->12 9.25M E, Pet House ->11 8.25M E, Ricochet 6M G, Camp ->13 8.5M E, Firespitter 8.5M G.
+Series C (S1-B Narrow, real Battles, no Practice per JJ): 79%/1*, 55%/1*, 56%/1*, 100%/3*, 83%/2*. Avg 74.6%; 2*+ trials 2 of 5 (bar 3), so the star condition is not met as written. B2 ruling is Fin's. SC-1 had 3+ deployment misses.
+Balances after SC-5: Gold 3,551,861 / Elixir 6,159,506 / DE 87,078, gems 2,354 (older logs say 2,854: [UNKNOWN], open), builders 1/7 free. No cost beyond 1,600G entries. Rate dialog appears after returning home; dismiss with LATER.
