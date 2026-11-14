@@ -226,3 +226,11 @@ PC holder: Claude (Sonnet) seat, Config D (JJ present at PC). One Haiku subagent
 - Findings (for the record): (1) Haiku subagents' input actions got "user interrupt" (3 runs, 0 removals). (2) Separate Haiku session: clicks refused with "The desktop shell is frontmost..."; screenshots worked. Hypothesis [UNKNOWN]: per-session allowed-apps / frontmost-window check; never confirmed. (3) Computer-use lock is exclusive: when I used it, Haiku got "Another Claude session is currently using the computer". (4) Haiku misread the village once and clicked behind the game via open_application (launcher). No harm done.
 - Unexplained [UNKNOWN]: Gems 2,843 -> 2,853 (+10) with Elixir unchanged, cause not identified; possibly unrelated to my actions.
 - State: BB Gold 2,592,831, Elixir 1,903,019, gems ~2,853, builders 3/3. Nothing pending from the Haiku trial.
+
+## #22 — Scout (Claude seat), BB collect + obstacle pass — 2026-11-14
+- Name: JJ named the Claude seat "Scout" (2026-11-14).
+- Builder Base: collected gold + elixir bubbles: Gold 2,592,831 -> 2,601,789 (+8,958), Elixir 1,903,019 -> 1,911,983 (+8,964). Gems unchanged 2,853.
+- Removed 1 Small Tree (banner read "Small Tree", Remove 2,000 Elixir): Elixir 1,911,983 -> 1,909,983, Gems 2,853 -> 2,854 (+1). One more object tapped at top: no banner (not an obstacle). Remaining BB obstacles: none found inside the base area; brown crates by the campfires look like part of the base (not tapped).
+- Gem observation: tree gem payouts so far +4, +5, +1 (all small). The earlier +10 (2,843 -> 2,853) remains unexplained [UNKNOWN].
+- NOT done: Home Village pass and Gem Mine/Clock Tower re-check. Could not find the boat back to Home from the BB by panning (map drifted, no boat seen); stopped rather than guess-tap. B0 still 0/3, no countable circuit this session. Next: find the BB->Home route (probably zoom out first), then do the Home collectors.
+- Final state: BB, Gold 2,601,789, Elixir 1,909,983, Gems 2,854, builders 3/3, nothing selected; map panned off-center.
