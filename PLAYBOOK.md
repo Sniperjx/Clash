@@ -92,3 +92,12 @@ Current honest level: **poor** (GPT seed test: 31%, 0 stars, Practice). The path
 
 ## Current attacking procedure - #11 closeout
 Use the CURRENT ATTACK RUNBOOK at the top of ATTACK-PLAN.md, not the historical line/Blimp script above. JJ authorizes regular Battles;no Ranked/BuilderPvP. S1-B0 baseline completedfive withmixedconditions,unboostedsubset67.25% andnoB2pass. NextS1-BNarrow isproposedpackage,notstarted. Portraitbatchinputworks;THidentification,currentspelloccupancy,legalboundaries andfreshsettledcounts remainmandatory. No assumedfilledCC orTHkillfromBlimp;inspectdirectlybeforeanysupportedvariant. All12Dragons=6+6. See datedATTACK-REVIEW forfailures/metrics.
+
+## Scout-seat lessons - 2026-11-16
+- Treasury is NOT a map building. Route: tap Clan Castle -> Treasury button in its menu -> read -> Collect -> Okay. Verify a builder is free BEFORE collecting.
+- Deploying: wait out the countdown (~35 s), scroll the wheel down 10-20 ticks to zoom out, deploy from open grass with no cannons or walls (here the RIGHT edge; left/top-left edges gave red-area misses). Heroes first, Dragons clustered, then Riders/Balloons/MP; Rage on the path to the TH; Freeze on the named engaging threat.
+- Priority-check before any currency-competing spend; state the priority item's status in the log first.
+- Builder panel has no Lab tab. If a Confirm returns the Goblin Builder "all builders busy" dialog, close it, never pay.
+- Idle disconnect ("Anyone there?") happens after a long pause: tap RELOAD GAME, then zoom out again.
+- Scroll picker lists from empty margins, no batched clicks across popovers, never press Upgrade on a map selection unless intended.
+- Lab location is still unknown on this layout: it is not in the left, top or right outside areas; hunt inside the walls only with read-the-label taps.
