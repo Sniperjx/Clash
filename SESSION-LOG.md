@@ -343,3 +343,8 @@ Per Fin's Hammer Jam ruling (50% cost/time on Home Village upgrades until Nov 16
 - Lab NOT reached: hunted for the Laboratory on the zoomed map (tapped Spell Factory L8 and Builder's Hut L7 by mistake, both look-only, nothing pressed); the Lab is not in the builder panel tabs (those are builders / goblin / hero equipment / pets). Baby Dragon price unchecked. Next session: pan with drag, find the dome-and-flask building, read the label before pressing.
 - Standing process rule (Fin): priority-check before spend, state the priority item's status in the log before any competing start.
 - Builder Hut note: Upgrade shows 20,000,000 (not pressed).
+
+## #33 Scout - Laboratory found, Nov 16 ~1:50 PM PT
+- Lab FOUND: Laboratory L15 sits inside the walls east of the Clan Castle, next to the 4d timer bar (zoom out, then zoom in on that spot). Look-only: opened Research, pressed nothing, closed with X. Also looked at (not pressed): Blacksmith L9, Spell Factory L8, Dark Elixir Storage, Multi-Archer Tower L1, Pet House L10, a Cannon, an Archer Tower, a Wall L16 selection (deselected, no Upgrade pressed).
+- Lab is NOT idle: "Upgrade in progress" = Ice Block Spell L3, 4d 17m total, ~4d left. All earlier "Lab idle" notes since Nov 14 are stale (a spell upgrade was started by JJ or an earlier seat; source [UNKNOWN]). Baby Dragon L10 -> 15,000,000 E (Elixir 9.51M, unaffordable); Dragon ->12 shown 15.5M-class cards, not startable now anyway.
+- Game had disconnected for inactivity ("Anyone there?"), reloaded. Gold 6,460,671 / Elixir 9,507,419 / DE 27,613 / gems 2,357. No spend, no gems.

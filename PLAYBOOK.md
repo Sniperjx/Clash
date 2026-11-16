@@ -100,4 +100,4 @@ Use the CURRENT ATTACK RUNBOOK at the top of ATTACK-PLAN.md, not the historical 
 - Builder panel has no Lab tab. If a Confirm returns the Goblin Builder "all builders busy" dialog, close it, never pay.
 - Idle disconnect ("Anyone there?") happens after a long pause: tap RELOAD GAME, then zoom out again.
 - Scroll picker lists from empty margins, no batched clicks across popovers, never press Upgrade on a map selection unless intended.
-- Lab location is still unknown on this layout: it is not in the left, top or right outside areas; hunt inside the walls only with read-the-label taps.
+- Lab: inside the walls east of the Clan Castle, marked by a research timer bar; tap the building, read the label, Research button opens the status.
