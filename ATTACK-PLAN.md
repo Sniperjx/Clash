@@ -409,3 +409,11 @@ JJ overrode the empty CC/siege instruction (owner's call; logged per the precede
 - Siege slot 1/3: 1x BATTLE BLIMP L4 — the account's records said no Blimp was trained; a selectable L4 Blimp exists (owned vs donated UNVERIFIED — Workshop/CC read owed next session; this may already solve Series D's Blimp blocker)
 - CC section filled: troops 50/50 = 2x Dragon Rider; spells 3/3 = 1x Rage + 1x Freeze; siege row 2/2 = the Blimp + a second machine (wooden/rotor icon — name unverified, do not icon-guess)
 Trial conditions are unchanged: a block that specifies no CC/siege still deploys without them — the recipe carrying them does not deploy them by itself. Seat requests of CC donations remain governed by the parked JJ ruling until JJ rules otherwise.
+
+## Loot floor for seat-run multiplayer attacks (Fin ruling, 2026-11-18)
+Evaluated on OFFERED loot (the match screen), not extracted loot:
+- Standard: attack at >= 600k Gold AND >= 600k Elixir offered.
+- DE override: attack regardless of G/E at >= 8,000 DE offered (DE gates the pet/hero chain and is the scarcest currency on this account).
+- A resource within ~2M of its storage cap does not count toward the floor.
+- Next past anything below the floor; standing Next budget <= 10 per battle, then take the best base seen — seat time is the scarce resource, not the 1,600 G entry.
+Basis: training is free; entry is 1,600 G; the win bonus at JJ's league pays 300k/300k/2.1k on top. At the floor, one win funds ~6% of a 15.5M Lab step. Replaces the lapsed Phoenix-era DE preference in the attacks rubric (the standing DE override above now carries that intent).
