@@ -1,3 +1,9 @@
+# LATEST (Scout, 2026-11-18 ~3:45 PM PT; supersedes blocks below)
+- Balances [MEASURED 3:43 PM]: 15,638,382 gold / 9,433,808 elixir / 209,581 DE / 929 gems. Builders 1/7 free; Lab 1/2 free (Ice Block Spell running ~18h); Pet House 0/1.
+- Builder list [MEASURED 3:43 PM]: Clan Castle 11h38m, Squad Barracks 1d12h (NOW PLACED+BUILDING, JJ did it), Elixir Storage 4d (JJ-started), Army Camp 6d2h, Ricochet Cannon 6d10h, Firespitter 8d (a new 8d timer; [UNKNOWN] whether this is Firespitter #2 or a re-read of the same; Fin's note had #1 freeing this evening). Archer Tower done. Menu: RC/BK/AQ 340k DE 7d each, Dragon Duke 120k DE 3d, Minion Prince 200k DE 7d, DE Drill x2 8M E 5d, Scattershot x2 15.5M G 9d, Gold Storage x4 8.5M, Gold Mine x2 4.2M.
+- Boost: Sneaky Goblin L9 boost ACTIVE (~2d23h at 3:30 PM, activator unconfirmed). Army 2 = FARM 1 verified (108 SG L9 + 1 Archer, 3 Jump L5/3 Invis L4/2 Haste L7, siege slot Log Launcher but 'empty' in battle; fly siege-less per Fin). Totem Spell locked (needs Spell Factory 9); 11 Squads locked (Squad Barracks now building: unlocks when done); CC holds donated Blimp L6 / Slammer L3 + 2+2 troops + Rage + Freeze.
+- Sneaky raid 1 [MEASURED, siege-less, XROUSC skipped; Anjo da Morte LORDS DA GUERRA]: offered 920,857 G / 945,314 E / 14,942 DE; took 623,580 / 605,462 / 2,676 (68% / 64% / 18%), 18% destruction, 108 goblins in ~2 min, army refilled instantly after. Block paused by JJ ("skip the attacking for now") after raid 1; 1,600 search fee x3 (incl. 2 aborted searches). Ranked: rank 52, 0/12, ~4d5h left.
+
 # UPDATE - #36 army test (2026-11-18 ~12:29 PT, Sol; details SESSION-LOG #36)
 - Home: 6,461,738 gold / 5,265,722 elixir / 41,027 DE / 2,424 gems. Treasury 2.8M G / 2.8M E / 14k DE (Star Bonus landed). Three standalone 325-mix battles: 100/3, 85/2, 40/0 (avg 75.0%). Stone Slammer L4 availability verified by use. Builders/Lab/Pet House unchanged from the #35 block (all busy).
 
@@ -112,3 +118,8 @@ Priority queue: Phoenix 2->3 = 95,000 DE / 2d (Hero Pets, separate pet slot) is 
 Post-Jam prices (menu-read): Dragon ->12 18.5M E; Pet House ->11 15M E; RC/BK/AQ 340k DE each; Squad Barracks 1.7M E; Builder's Hut ->8 20M; Dragon Duke ->8 110k DE; Archer Tower 460k G.
 CWL: ended, clan lost 0-14 to "Error", demoted to League III, 24 medals credited. Lab (L15) FOUND (east of the Clan Castle, 4d timer bar): busy with Ice Block Spell L3, ~4d left, so NOT idle. Baby Dragon costs 15M E (unaffordable at 9.5M).
 Config B: Scout directs at package/audit level; Sol seats and directs Terra. Sol-driven-by-Scout trial (#32) was a dud (halts on errors, no region zoom). Account switches are JJ-present only.
+
+## 2026-11-18 [GPT] Post-collection snapshot
+
+- Home Village after Loot Cart and collectors: 9,366,807 gold / 10,448,986 elixir / 50,883 dark elixir. Gems were 2,357 before Builder Base collection.
+- Builder Base after collectors and six normal first-stage obstacle removals: 3,109,416 gold / 2,392,107 elixir / 2,385 gems. Cave obstacles left in place. See latest SESSION-LOG entry for unchecked rewards and the input stop. No upgrades started.

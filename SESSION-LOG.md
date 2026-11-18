@@ -489,3 +489,8 @@ JJ applied all three bases himself on his phone (main / war / ranked-defense) af
 - Attack Log route: Home -> Battle (260,640) -> scroll icon top-left of Battle card (~268,265) -> Battle/Ranked tabs with Defense/Attack Log. Read and reported; Fin confirmed Sol's reporting matches the log and Gemini's "saeeid 85%/2*" battle was fabricated (real: 40%/0*).
 - Wrong screens opened while searching (Social, Inbox, Season pass $6.99 offer, Calendar, Find a Match): closed, no actions.
 - 13:35 Relayed Fin's 3-attack tasking (JJ direct order 13:24) verbatim to Sol (Codex, "Get caught up on context" thread). Codex window was clipped off the right screen edge; drag blocked by tier rules, fixed with a user32 MoveWindow call. Fin: stay off the game while Sol flies; then TH19 reads, then ranked probe. If Sol goes ~45 min with no battle report, flag Fin, do not take the game back.
+
+## 2026-11-18 [Scout] Evening: Army 2 verify, Sneaky raid 1, base catch-up
+- Army 2 verified vs FARM 1 (108 SG L9 + 1 Archer, 3 Jump/3 Invis/2 Haste, Log Launcher slot). In battle every siege card (Blimp L6, Slammer L3, Log Launcher L5) reads "empty"; Fin ruled: fly siege-less, Workshop read after the block. Haste L5 (info) vs L7 (army tray) and Log Launcher L4 (panel) vs 5 (badge) conflict, open.
+- Raid 1 siege-less vs Anjo da Morte: offered 920,857/945,314/14,942; took 623,580/605,462/2,676, 18% destruction. Gold 14.97M -> 15.64M. Army refilled instantly. Raid 2 search aborted (nothing deployed) at JJ's "skip the attacking for now". Block at 1/10; ranked probe not flown.
+- Base catch-up (builder list): Squad Barracks now building (1d12h), Elixir Storage 4d, Army Camp 6d2h, Ricochet 6d10h, Clan Castle 11h38m, Firespitter 8d; 1/7 builders free. STATE.md refreshed.
