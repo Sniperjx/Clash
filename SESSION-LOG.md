@@ -410,3 +410,8 @@ JJ applied all three bases himself on his phone (main / war / ranked-defense) af
 - Priority check stated first, per rule: Firespitter #2 menu-verified 17.0M G / 10d vs 13.13M on hand — OUT OF REACH; no competing gold started. Next merges also out of reach (Ricochet #2 17.5M, Multi-Archer #3 17.5M, Multi-Gear L2 18M, Spell Tower 17M — merge prices escalate; first Ricochet was 12M).
 - Fin ruling on Scout's pick: APPROVED. Squad Barracks started (1.7M E, 2d) — spends elixir, unlocks the Squads mechanic for the system's TH19 reads, gold line to 17M untouched. Contingency pre-approved: if a second builder frees in-session, Archer Tower L10 (460k G, 6h) is the filler start.
 - DE 12k — no hero/pet start possible, correctly skipped.
+
+## #38 addendum — Squad Barracks unplaceable; Archer Tower started; builders hold for Firespitter (Fin ruling, 2026-11-18)
+- Squad Barracks NOT started: new building, no valid 3x3 placement in the full village (4 spots tried, footprint red, confirm greyed). Cancelled, nothing spent — correct stop-and-report. Placement is JJ's layout domain; retry is queued for after the Ricochet merge completes (~Nov 25, donor footprint frees) or whenever JJ frees a spot in his editor. Not JJ-blocking.
+- Archer Tower L10 started instead (460k G, 5h59m measured) under Fin's filler contingency — accepted and logged. Gold 12.67M.
+- Two builders idle BY RULING: the alternatives (Elixir Storage / Mortar at 8.5M G) spend the priority currency on non-priority buildings and push Firespitter #2 (17M) days out. Idle builders for hours beat a gold detour; Firespitter #1's builder frees this evening and the Archer Tower in ~6h, so a builder is available the moment gold crosses 17M.
