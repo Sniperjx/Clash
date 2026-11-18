@@ -5,23 +5,26 @@ attacking, building — without him present. He touches only: GPT account
 switches, Tier 3 calls, and one-off owner decisions (base picks, clan
 bonus medals). Everything else is the seats' work, pulled from TASK-QUEUE.md.
 
-## Usage cascade (JJ, 2026-11-16)
-Spend GPT's usage first wherever GPT can do the work; spend Claude's usage
-where GPT can't (directing, verifying, Claude-seat blocks, judgment-heavy
-inspections). When GPT's pool dies mid-queue: Claude-shaped work continues,
-GPT-shaped work parks. When both are dry: the queue parks and Fin's
-oversight notes it once. Account switching stays JJ-present (measured
-constraint); reading which account is signed in is a look-only read any seat
-may do itself.
+## Operators (JJ simplification, 2026-11-18 — supersedes the 2026-11-16 cascade)
+**Sol (GPT) and Sonnet (Claude) only.** The two seats are interchangeable
+single operators: identical protocol, identical grants, same queue, same
+rails, both reporting to Fin in the Muse chat. JJ opens whichever seat he
+has usage for; that seat works the queue solo. Terra is retired as hands;
+no other model operates the account. Config B (one seat directing the
+other) is retired. Trial evidence is still logged per operator — records
+stay honest even though permissions are shared; B2 remains per-operator
+until one passes. Account switching stays JJ-present (measured constraint);
+reading which account is signed in is a look-only read any seat may do
+itself. When one pool is dry, JJ opens the other seat; when both are dry,
+the queue parks and Fin's oversight notes it once.
 
 ## Session shapes
-- **Config B (default workhorse):** Scout directs, GPT (Sol/Terra) plays.
-  Chores, queued upgrades, GPT-seat attack blocks.
-- **Scout solo:** Scout's own blocks, inspections, B0 circuits.
+- **Seat session (the only game shape):** JJ opens Sol or Sonnet; the seat
+  refreshes state -> works the queue top-down -> logs + updates STATE ->
+  reports to Fin in the Muse chat.
 - **Fin desk work:** research, plans, audits — no game contact.
 A session starts when JJ opens one, says "run it," or the PC launcher
-(below) fires. Sessions always: refresh state -> work the queue top-down ->
-log + update STATE -> report in the Muse chat.
+(below) fires.
 
 ## Schedule windows (PT; PC is often left on)
 Late morning: chore circuit + upgrade-trigger check. Afternoon: attack

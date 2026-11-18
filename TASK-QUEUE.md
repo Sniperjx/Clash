@@ -8,8 +8,10 @@
 - R4 Usage log: account, start/end %, context size. [directing seat]
 
 ## One-shot queue (status as of 2026-11-16)
-- Q1 Series C [GPT seat] — IN PROGRESS (Config B, Scout directing).
-  Pass = B2 for the GPT seat (Fin audit).
+- Q1 Series C-3 block — 3 of 5 flown (62/58/50%, 0 at 2-star+): the B2
+  star condition is mathematically foreclosed; the last 2 trials may be
+  flown by either seat as data/DE runs, logged per operator. Block closes
+  not-passed regardless.
 - Q2 Camps #2-#4 chain — Camp #1 finishes ~Nov 18; each next camp starts
   when a builder + 17M E (menu-verify) align.
 - Q3 Dragon ->12 (Lab #1) — starts at 18.5M E affordable.
