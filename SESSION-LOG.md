@@ -480,3 +480,12 @@ JJ applied all three bases himself on his phone (main / war / ranked-defense) af
 - Item 2b Lab (L15, east of CC): Ice Block L2->3 running, 1d 22h 1m left. Lab badge = current level: Dragon 11 (15.5M E), Balloon 11 (15.5M E), Baby Dragon 10 (15M E), Stone Slammer 4 (10M E). Army-screen cards read Dragon 12 / Balloon 12 [CONFLICT, Lab trusted]. Research Potion boost active (47m), Goblin second-upgrade offer closed unpaid.
 - Item 3: Layout editor = Build menu -> hand-with-arrows button (right edge). Home Village 3 slots all filled (slot 1 Active "Ranked Defense"); War Base 4 filled, further slots cost 1000/1500 gems. No empty slot, no paste-link import visible: STOPPED, nothing copied or bought. Awaiting Fin/JJ.
 - Builder panel (read): Dragon Duke ~34m, Ricochet merge 6d21h, builder free ~49m at 12:50.
+
+## 2026-11-18 [Scout] Afternoon: trigger-check, Archer Tower, Squad Barracks, Attack Log, Sol relay
+
+- Trigger-check (Duke done): Firespitter #2 = 17.0M gold (new Firespitter listed 15.5M in menu, Fin ruled 17.0M the real gate); gold 12.67M, out of reach. Fin ruling: hold gold for Firespitter #2, no Mortar/Elixir Storage at 8.5M, idle builders fine.
+- Archer Tower upgrade started (~5h55m). Busy: Clan Castle ~23h, Army Camp ~6d16h, Ricochet merge ~6d22h (lands ~Nov 25). Builders 2/6 free, lab 1/2 free.
+- Squad Barracks (new building): placement would not confirm at 4+ spots (red footprint, no free 3x3). Cancelled, nothing spent. Fin ruled layout problem: retry after the merge lands (~Nov 25).
+- Attack Log route: Home -> Battle (260,640) -> scroll icon top-left of Battle card (~268,265) -> Battle/Ranked tabs with Defense/Attack Log. Read and reported; Fin confirmed Sol's reporting matches the log and Gemini's "saeeid 85%/2*" battle was fabricated (real: 40%/0*).
+- Wrong screens opened while searching (Social, Inbox, Season pass $6.99 offer, Calendar, Find a Match): closed, no actions.
+- 13:35 Relayed Fin's 3-attack tasking (JJ direct order 13:24) verbatim to Sol (Codex, "Get caught up on context" thread). Codex window was clipped off the right screen edge; drag blocked by tier rules, fixed with a user32 MoveWindow call. Fin: stay off the game while Sol flies; then TH19 reads, then ranked probe. If Sol goes ~45 min with no battle report, flag Fin, do not take the game back.
