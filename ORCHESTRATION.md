@@ -148,3 +148,34 @@ reviews produce amendments to this pack (ATTACK-PLAN, TERRA-SCOPE, this file);
 amendments are versioned and ruled by Fin with JJ as the final gate on
 anything touching tiers, rails, or money-adjacent rules. The system improves
 the system — with receipts.
+
+---
+
+# AFK Operating Protocol (JJ directive, 2026-11-14 — Fin's interpretation, recorded)
+
+JJ is often AFK and leaves the show to the seats. The loop:
+
+1. **Scout (Claude seat) plays and thinks**: attacks, inspections, in-game
+   execution, higher-level in-session judgment. Fin researches, designs,
+   rules, audits — Fin does not play.
+2. **GPT as Scout's overflow**: when Claude usage runs out OR GPT is simply
+   the available hands, Scout tasks GPT through the PC apps (Codex / Chrome)
+   as Config B sessions, logged as such. GPT's own seat qualifications and
+   the two-model rules (Sol judges, Terra hands) are unchanged.
+3. **Account-switch loop**: GPT usage exhausted and a switch needed ->
+   Scout reports HERE to Fin -> Fin notifies JJ in this chat -> JJ goes to
+   the PC, switches the account himself, and says so here -> work resumes.
+   Agents never type credentials, never work around sign-in. If JJ does not
+   respond, GPT-dependent work PARKS (no nagging, no repeated pings) and all
+   Claude-side / Fin-side work continues; the parked item is re-raised once
+   when JJ next appears. A same-account usage-window reset (e.g. a 5h window
+   rolling over) needs no switch and no JJ action — the seat just resumes
+   and logs it.
+4. **Focus**: MAIN village and WAR base only. Builder Base is out of the
+   active routine (JJ, 2026-11-14) — no BB chores, no BB circuits, until he
+   reopens it. (BB collections already inside a Home circuit stop too.)
+5. **Item use**: magic items and potions are system-managed per the ITEMS
+   policy (research-backed; potions fire on policy conditions; Books,
+   Hammers, and Runes need Fin's per-use approval in chat). Gem-priced or
+   money-priced anything stays banned outright. Normal loot and trophies
+   are expendable in the name of science; financial/gem mistakes are not.
