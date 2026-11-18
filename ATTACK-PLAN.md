@@ -386,3 +386,12 @@ Fin accepted no-siege deployment series on a fixed late generalist campaign map;
 ## #11 live Battles refinement - JJ override
 JJ explicitly authorized regular real battles and accepted rank loss; use ordinary matchmaking now. Prior B2 entry gate no longer blocks this user-directed task. Ranked enrollment and BuilderPvP remain excluded. Do not purchase boosts/refills. SeriesA closed incomplete due userinterruption/venuechange. SeriesB results must be stratified:SB1 boosted plusCCspells,SB2onwardunboostedownspellsonly. Never pool those to claim identical conditions.
 Opening target selection must positively locate the TownHall separately from Eagle and name approach defenses; SB1 confused their identities before recovering. Batch deployment13s is practical. RC ability may auto-trigger before an input arrives; do not depend on deliberate RC timing. Prioritize current occupied Rage zones and Freeze on active highdamage defense; a percentage threshold alone remains insufficient.
+
+## Saved Recipe — ARMY 1 (Fin spec, 2026-11-18; built in-game by the seat JJ assigns)
+Capacity is now 325 (Camp #1 done). Recipe ARMY 1 in the in-game recipe editor:
+- Troops: 12x Dragon, 2x Dragon Rider, 7x Balloon = 325 (the +5 housing over Army of Record v1 is exactly +1 Balloon)
+- Spells: 4x Rage, 3x Freeze = 11
+- Heroes: Archer Queen, Grand Warden, Minion Prince, Royal Champion (Warden AIR mode is set on the hero and verified at loadout check — the recipe does not set it)
+- Clan Castle sections (troops / spells / siege): LEAVE EMPTY — trial conditions fly with no CC and no siege, and CC requests are a parked JJ ruling
+- Pets/equipment are not part of the recipe; assignments stand as settled (Unicorn / Diggy / Electro Owl / MP none) and are verified at loadout, never changed in the editor
+Growth: Camp #2 (2026-11-25) -> 330 = +1 Balloon (8). Camps #3/#4 -> 335/340 = +1 Balloon each (9, then 10). Update this section when each camp lands.
