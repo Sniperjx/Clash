@@ -58,3 +58,61 @@
 4. TH19 LOOK-ONLY READS: (a) the new HEROIC SPELL that unlocks at TH17 — where does it live (Spell Factory / Lab / army screen), what is it called, what does its info panel say, is it already available or does it need research/unlock; (b) SQUADS — what the army screen shows for squads on this account (names/levels if readable). Names from info panels only; touch nothing, start nothing.
 5. RANKED PROBE (JJ's standing grant, CHARTER 2026-11-18): read the Ranked Battle info panels; report the mechanics (battles per cycle, how the ranked defense and its CC are set, whether attacks use the home army + recipe siege, any entry cost); then fly ONE ranked battle with the recipe army, full report (opponent, stars, %, what the result did to Rank 85 / the 23 counter). Cycle deadline ~2026-11-22/23 — after the probe, Fin sets the routine; do not fly more than the one probe battle.
 6. Close per protocol: SESSION-LOG entry, STATE refresh (attribute today's balance deltas to JJ's live play, including the 2,424 -> 2,340 gem read), context size in your report.
+
+---
+
+## SCOUT PACKAGE #3 — catch-up delta (Fin, 2026-11-18 ~15:22 PT)
+
+**Package #2 dispositions:** item 1 DONE (#38 — Archer Tower started, builders hold
+for Firespitter #2 per Fin's ruling). Item 2 CANCELLED (JJ applied all three bases
+himself and closed the topic — never touch layouts). Item 3 DONE (your Attack Log
+read closed Gemini case 1 as FABRICATED; Sol's #36 reporting verified exact, 7 of 7
+checkable rows again in his full-day report). **Items 4, 5, 6 remain yours and are
+still owed** — TH19 reads, the ranked probe (one battle only), and the close-out
+STATE refresh. Sol's run is finished; the game is yours when you take it.
+
+**New facts since your last report:**
+- JJ spent gems upgrading the **Alchemist to L6** (owner action, explained; gems now
+  927). Alchemist L6: conversion max 7.5M, +9% bonus; shown rate 50,000 DE ->
+  8,175,000 G; next upgrade 1,500 gems; she was on cooldown to ~2026-11-19 11:41 PT.
+  Player level is now 227. A FOURTH helper slot exists and is locked [name unknown].
+- OPEN QUESTION your STATE refresh settles: JJ's screenshot cropped the gold
+  balance ("...46,812"). If gold reads ~23.4M, Firespitter #2 (17.0M) is affordable
+  the moment a builder frees this evening, and a DE->Gold conversion evidently
+  fired. Report exact balances (G/E/DE/gems); numbers only, no speculation.
+- Sol's full-day report is filed (ARMY-TEST-2026-11-18.md): 22 attacks, 73.4% avg;
+  Army 1 portion 80.1% over 18 completed battles. NOT a B2 result (JJ-directed,
+  conditions varied). Mr Smith closed as Sol's interrupted attempt.
+- Super Troops in Army 1: Fin ruled NO (Super Dragon trades away redundancy;
+  Rocket Balloons are cleanup, not core-push). The potions are NOT dead, though —
+  see the farm program below.
+- PRIORITIES is now v3 (verified prices in the body; gold track = Firespitter #2
+  at 17.0M; Squad Barracks placement-blocked, retry after the Ricochet merge
+  completes ~Nov 25).
+
+**NEW ASSIGNMENT A — Sneaky Goblin pre-test reads (FARM-PROGRAM.md).** JJ approved
+a Sneaky Goblin farming test: recipe FARM 1 (108 Sneaky + 1 Archer @325; 3 Jump /
+3 Invisibility / 2 Haste; Log Launcher default, Blimp swap on a goblin-filled CC).
+Before any activation, read look-only and report: (1) **Goblin level** (boost needs
+7 — never verified on this account); (2) Jump / Invisibility / Haste levels;
+(3) Super Troops dialog: Sneaky Goblin boost-eligible? and the Super Potion count
+(JJ reports 5). Open, read, close with X — activate NOTHING.
+
+**NEW ASSIGNMENT B — brief the Spotter (SPOTTER.md).** JJ is opening a second
+chat on the PC with the model set to Haiku: a dedicated base-hunting seat. Your
+job: get it fully caught up. Give it, in this order: (1) its identity and one-line
+mission — it hunts bases for the pilot seats and NEVER deploys, casts, or touches
+anything outside Find a Match / Next; (2) point it at SPOTTER.md and
+FARM-PROGRAM.md in this repo and have it confirm it read them; (3) the standing
+rails (no gems, no purchases, no clan social actions, no CC requests, one pair of
+hands on the emulator — after a ping it touches nothing); (4) the ping format,
+verbatim from SPOTTER.md; (5) the current state of play — the Sneaky test is
+being prepared, no hunting block is declared yet, so after catch-up it WAITS for
+Fin to declare a block (army named per block) before any matchmaking. Confirm
+back to Fin in the shared chat when Spotter acknowledges all five points.
+
+**Sequencing:** the game is free now. Order of work: (a) Package #2 items 4–5
+(TH19 reads, ranked probe), (b) Assignment A reads — they share the same screens
+economically; (c) the STATE refresh (item 6) LAST, so it captures final balances;
+(d) Assignment B is chat-side and can run whenever the Haiku chat exists. Report
+your context size at close, per standing orders.
