@@ -395,3 +395,8 @@ Capacity is now 325 (Camp #1 done). Recipe ARMY 1 in the in-game recipe editor:
 - Clan Castle sections (troops / spells / siege): LEAVE EMPTY — trial conditions fly with no CC and no siege, and CC requests are a parked JJ ruling
 - Pets/equipment are not part of the recipe; assignments stand as settled (Unicorn / Diggy / Electro Owl / MP none) and are verified at loadout, never changed in the editor
 Growth: Camp #2 (2026-11-25) -> 330 = +1 Balloon (8). Camps #3/#4 -> 335/340 = +1 Balloon each (9, then 10). Update this section when each camp lands.
+Hero dial-in for the recipe (by NAME — icon inference caused the Frosty ghost in #28; seats verify names in the picker, never trust icons):
+- Archer Queen: pet Unicorn; equipment Giant Arrow + Magic Mirror
+- Grand Warden: pet Electro Owl; equipment Eternal Tome + Fireball; mode AIR (set on the hero, verified at loadout)
+- Royal Champion: pet Diggy; equipment Rocket Spear + Electro Boots
+- Minion Prince: equipment Henchmen Puppet + Dark Orb; pet — record of record says NONE assigned, but JJ's 2026-11-18 recipe screenshot shows a pink jelly (Angry Jelly?) in his slot. Seat verifies BY NAME: if Angry Jelly is genuinely assigned, keep it (an assigned pet beats an empty slot; do not picker-dive to change it — #28 swap incident). If the slot is actually empty, leave it empty and report.
