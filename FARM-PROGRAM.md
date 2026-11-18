@@ -1,9 +1,15 @@
 # FARM PROGRAM — Sneaky Goblin Test (Fin design, 2026-11-18; JJ approved the test)
 
-**Status:** recipe designed; PRE-TEST verification reads outstanding; boost NOT yet
-activated. One Super Potion is Fin-approved for this test under ITEMS.md (Super
-Potions may be used inside a Fin-approved Super Troop program — this is that
-program's pilot). JJ directs the test block live, as with the 2026-11-18 Army 1 run.
+**Status:** pre-test reads DONE 2026-11-18 (Goblin **L9** — boost gate cleared;
+Jump L5 / Invisibility L4 / Haste L5 — recipe fill stands as designed).
+**BOOST IS LIVE:** the Sneaky Goblin boost was activated ~15:22 PT 2026-11-18
+(2d 23h 52m remaining at Scout's 15:30 read; expires ~2026-11-21 15:22 PT).
+Attribution UNRESOLVED — not Scout; the Haiku Scout session built Army 2 = FARM 1
+in the same minute but its summary denies pressing Activate; JJ was at the PC.
+Fin has asked JJ directly. Army 2's contents are UNVERIFIED until Scout reads
+them against this spec. Fin declared the 10-raid test block on 2026-11-18
+(Scout piloting; Spotter NOT in the loop for this block — one new variable at a
+time), ranked probe immediately after, STATE refresh last.
 
 ## Recipe — FARM 1 (build at 325 housing)
 
