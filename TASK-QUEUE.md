@@ -40,3 +40,13 @@
 - Tier 2 farming per seat: locked until that seat passes B2.
 - Wars / CWL participation / Ranked: Tier 3, JJ only.
 - Series D (CC/siege): blocked on Workshop read + JJ's CC-payload ruling.
+
+## SESSION PACKAGE — Scout, 2026-11-18 (JJ-directed, Fin-issued): recipe dial-in + three bases
+1. VERIFY FIRST (look-only, by name — no icon guesses): Workshop inventory (every siege machine owned, with levels; owned vs donated for the Blimp and Stone Slammer); Minion Prince's pet NAME in the picker.
+2. RECIPE ARMY 1 — update to: 12 Dragon / 2 Dragon Rider / 7 Balloon; 4 Rage / 3 Freeze; heroes Q/W(air)/MP/RC with the dialed pets+equipment; siege slot = STONE SLAMMER (proven in #36, needs no payload) — if the Slammer proves donated-only and unselectable for the recipe, keep the Blimp and report why. JJ's CC section (2 Rider, Rage, Freeze) stays as he set it. Verify totals on screen (325/11/4) and report.
+3. BASES — copy each into an EMPTY slot of its type, never overwrite JJ's layouts; no empty slot = stop and report that slot only:
+   - MAIN (home): ClashCodes Hybrid 1 — https://link.clashofclans.com/jp/?action=OpenLayout&id=TH17%3AHV%3AAAAAFgAAAAKb4pv9KZokUgot3tlOPSkt — spell towers Rage + Poison.
+   - WAR: ClashCodes Anti-3 Base 2 — https://link.clashofclans.com/en/?action=OpenLayout&id=TH17%3AHV%3AAAAAXAAAAAG4iBT8jrVNP4kNR8fSs6Yl — spell towers Poison + Poison.
+   - RANKED: ClashCodes Hybrid 10 (ITZU Legend base) — https://link.clashofclans.com/en/?action=OpenLayout&id=TH17%3AHV%3AAAAAKgAAAAJ7r9YHVpsEdAVFtyddNl22 — spell towers Rage + Rage per its design. If ranked defense uses the home layout (no separate slot), report that and skip — the main base covers it.
+   For each: set spell towers, aim the single live Firespitter's cone at the most-used entry from the defence log, log every unplaced slot (expect Firespitter #2 and the merging Ricochet), then activate. Log trap levels if the editor shows them.
+4. Report per item here; update STATE/SESSION-LOG per protocol. Context check-in with your report.
