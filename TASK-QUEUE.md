@@ -12,14 +12,18 @@
   star condition is mathematically foreclosed; the last 2 trials may be
   flown by either seat as data/DE runs, logged per operator. Block closes
   not-passed regardless.
-- Q2 Camps #2-#4 chain — Camp #1 finishes ~Nov 18; each next camp starts
-  when a builder + 17M E (menu-verify) align.
+- Q2 Camps #3-#4 chain — Camp #2 STARTED 2026-11-18 (menu-verified
+  14.5M E / 7d — the verified post-Jam camp price; the 17M x2 heuristic
+  overshot). Each next camp starts when a builder + 14.5M E align.
 - Q3 Dragon ->12 (Lab #1) — starts at 18.5M E affordable.
-- Q4 Pet chain + Pet House ->11 — Phoenix 2->3 next; Pet House per queue.
+- Q4 Pet chain + Pet House ->11 — Phoenix 2->3 STARTED 2026-11-18
+  (95k DE, 2d). Next pet step rolls when the slot frees; Pet House per
+  queue.
 - Q5 Dragon Duke chain — rolls when builder + DE align (not during attack
   blocks; attack heroes per rotation, Warden first).
 - Q6 Firespitter #2 — when gold allows (post-Jam price, menu-verify).
-- Q7 Merges — Ricochet next, then remaining per PRIORITIES v2.
+- Q7 Merges — Ricochet Cannon merge STARTED 2026-11-18 (12M G, 7d);
+  remaining merges per PRIORITIES v2.
 - Q8 Main base application — AWAITING JJ pick (recommended: ClashCodes
   Hybrid 1, links in 06-base-selection.md). War base pick also ready.
 - Q9 PRIORITIES price re-verification — repo prices are Jam-era; refresh
