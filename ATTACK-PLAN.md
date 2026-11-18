@@ -417,3 +417,14 @@ Evaluated on OFFERED loot (the match screen), not extracted loot:
 - A resource within ~2M of its storage cap does not count toward the floor.
 - Next past anything below the floor; standing Next budget <= 10 per battle, then take the best base seen — seat time is the scarce resource, not the 1,600 G entry.
 Basis: training is free; entry is 1,600 G; the win bonus at JJ's league pays 300k/300k/2.1k on top. At the floor, one win funds ~6% of a 15.5M Lab step. Replaces the lapsed Phoenix-era DE preference in the attacks rubric (the standing DE override above now carries that intent).
+
+
+## Doctrine v2 — the attack as flown now (Fin consolidation, 2026-11-18; supersedes S1-B Narrow wording where they differ)
+1. Pick an entry edge; clear the outside buildings on BOTH sides of the entry before the main wave commits (the funnel is a phase, not a hope).
+2. Queen and Royal Champion work the outer corners as the funnel pair, staying wide — never clumped into the entry with the wave.
+3. Dragon Riders deploy BEHIND the main push, same gap, so they clear the defenses in its path.
+4. Rage: first Rages on the wave at entry and core approach; the reserve Rage fires on a verified cluster of >= 4 dragons/riders, or by ~70% destruction, whichever comes first.
+5. Freeze: only on a defense actively damaging the main group, cast in that fight — a Freeze held past its fight is a spell never cast (saeeid, #36).
+6. Abilities: Warden and Minion Prince deliberate at CORE ENTRY; Queen at ~50-60% health; Royal Champion automatic. [Candidate, unverified source: stagger core Rages/Freezes to land after the Warden's Tome expires rather than inside the invincibility window — adoption pending the Gemini case-1 Attack Log check.]
+7. Royal Champion releases from a flank once nearby defenses are distracted by the main wave.
+Siege: the recipe's Stone Slammer is standard for farming runs under the loot-floor rule. Declared trial blocks still fly whatever conditions the block states (the no-siege strata stay comparable).

@@ -103,3 +103,7 @@ Use the CURRENT ATTACK RUNBOOK at the top of ATTACK-PLAN.md, not the historical 
 - Lab: inside the walls east of the Clan Castle, marked by a research timer bar; tap the building, read the label, Research button opens the status.
 
 - Route (2026-11-18, Sol #35): the Forge (Clan Capital) is found by zooming fully out — bottom edge of the view, just right of the Clan Capital airship.
+
+- Layout Editor route (2026-11-18, Scout #37): Build menu -> hand-with-arrows button at the right edge (long-press does NOT open it). Home Village tab = 3 slots; slot 1 Active is the "Ranked Defense" (active home layout doubles as ranked defense). War Base tab = 4 slots + gem-priced extras (never buy). The editor has NO paste-link import; layout deep links cannot be opened inside the emulator — JJ imports links on his phone, seats verify after.
+- Siege inventory read (2026-11-18, Scout #37): open the army screen's siege picker and read each machine's INFO PANEL by name — icon reads are unreliable (the Blimp read L4 by icon, L5 by panel). The picker cannot distinguish owned vs donated; treat availability as the operative fact.
+- Lab badge rule (2026-11-18, Scout #37): a Lab research panel's level badge shows the CURRENT level, not the target (proven: Ice Block badge 2 while L3 researches). Army-screen troop cards can show buffed levels (Dragon card showed 12 while the Lab says 11) — for troop levels, the Lab screen is ground truth.

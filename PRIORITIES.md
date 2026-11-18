@@ -11,6 +11,9 @@ execution; JJ plays freely alongside).
 during a declared trial block (Series C included) — the rotation pauses for blocks.
 (2) Every start is verified in-game at start time for cost/currency before confirming;
 any figure in this file labeled [not retrieved] or [library] is a ceiling, not a price.
+
+## VERIFIED PRICES — post-Jam (Fin, 2026-11-18; these SUPERSEDE the labeled estimates below wherever they conflict)
+Menu- or Lab-screen-verified in game: Army Camp ->13 = 14,500,000 E / 7d. Dragon 11->12 = 15,500,000 E. Balloon 11->12 = 15,500,000 E. Baby Dragon 10->11 = 15,000,000 E. Ricochet Cannon merge = 12,000,000 G / 7d. Phoenix 2->3 = 95,000 DE / 2d. Dragon Duke ->8 = 110,000 DE / 2d. Angry Jelly 1->2 = 150,000 DE / 3d. Top hero levels ~340,000 DE each. The Hammer Jam ended 2026-11-16 00:00 PT; the old x2 post-Jam heuristic is retired — where a price is still unverified (Firespitter #2 above all), read the menu at the start, never the heuristic.
 (3) Walls remain overflow-only (free builder + surplus), never a queued start.
 (4) The Crafting Station stays rejected until its TH17 status is verified in-game
 AND DE is no longer the scarcest currency.
