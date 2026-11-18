@@ -102,10 +102,10 @@ Duke chain resumes after the pet step (Duke →9 price unverified; →8 was 110k
 Attack-set hero steps (Warden first, elixir) wait for the elixir track to clear the
 camps or for a genuine elixir surplus, and never during a trial block.
 
-**PLACEMENT-BLOCKED — Squad Barracks (1.7M E).** The village is full; the placement
-preview would not confirm on any spot tried (#38). Retry after the Ricochet merge
-completes (~Nov 25 — a donor footprint frees) or whenever JJ frees a 3×3 spot in
-his layout editor. Not JJ-blocking; seats do not rearrange the village.
+**Squad Barracks — PLACED by JJ (2026-11-18, owner act).** Building at Scout's
+15:43 read (1d12h remaining → completes ~Nov 20). The #38 placement block is
+closed — JJ freed the spot himself. On completion the Squads unlock for a
+look-only read; their abilities remain TH19-gated regardless.
 
 ## Next starts, trigger-based
 
@@ -115,7 +115,8 @@ his layout editor. Not JJ-blocking; seats do not rearrange the village.
 | Lab frees (~Nov 20) + elixir ≥ 15.5M | **Dragon 12** (else Baby Dragon 11 skip-ahead) |
 | Pet House frees (~Nov 20) + DE allows | Next pet step per DE track (menu-read first) |
 | Builder frees + elixir ≥ 14.5M (after Lab's claim) | **Army Camp #3 →13** |
-| Ricochet merge completes (~Nov 25) | Squad Barracks placement retry; Camp #4 as elixir allows |
+| Squad Barracks completes (~Nov 20) | Squads look-only read; Camp #4 as elixir allows |
+| Ricochet merge completes (~Nov 25) | Next merge per the gold track, if gold allows |
 | Any builder free + all above funded/running | Filler in a non-priority currency, or HOLD per rule 7 |
 
 ## What this plan deliberately does NOT do
