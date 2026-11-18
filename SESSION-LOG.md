@@ -415,3 +415,9 @@ JJ applied all three bases himself on his phone (main / war / ranked-defense) af
 - Squad Barracks NOT started: new building, no valid 3x3 placement in the full village (4 spots tried, footprint red, confirm greyed). Cancelled, nothing spent — correct stop-and-report. Placement is JJ's layout domain; retry is queued for after the Ricochet merge completes (~Nov 25, donor footprint frees) or whenever JJ frees a spot in his editor. Not JJ-blocking.
 - Archer Tower L10 started instead (460k G, 5h59m measured) under Fin's filler contingency — accepted and logged. Gold 12.67M.
 - Two builders idle BY RULING: the alternatives (Elixir Storage / Mortar at 8.5M G) spend the priority currency on non-priority buildings and push Firespitter #2 (17M) days out. Idle builders for hours beat a gold detour; Firespitter #1's builder frees this evening and the Archer Tower in ~6h, so a builder is available the moment gold crosses 17M.
+
+## #38 Attack Log verification (Scout, 2026-11-18 ~13:31 PT)
+- Sol's #36 battles CONFIRMED against the Attack Log to the digit: Oswi 100%/3* 1.47M/1.30M/12.4k, Ace Ruler 85%/2* 584k/426k/9.0k, saeeid 40%/0* 486k/1.09M/8.1k. Sol's morning standalones also present (Lord Hades 32%/0*, tetom 75%/2*). Sol's reporting is exact — noted for his operator record.
+- GEMINI CASE 1 CLOSED: NO saeeid 85%/2* battle exists in the log. Gemini's ground truth was fabricated; the analysis is VOID and its doctrine candidate is struck (ATTACK-PLAN / REPLAY-ANALYSIS.md updated).
+- One unexplained row: "Mr Smith" 2%/0*, AQ-only, ~13:11 PT — reads as a probe/abort during JJ's own play window; no loot, no cost beyond entry; logged as unattributed, no action.
+- Ranked DEFENSE log is live: khan 59%/2* and Janik 81%/2* hit the base minutes after JJ applied the new layouts (attribution to old vs new base is timing-ambiguous; both held to 2 stars).
