@@ -16,16 +16,20 @@ Fields marked UNREAD are filled by the first run that reaches them.
 - CWL: Nov season claimed 2026-11-16 — 24 league medals credited,
   clan demoted to League III. Bonus medals: JJ's call only, unexpired?
   UNREAD
-- Forge (Clan Capital): 700 Capital Gold ready to collect (seen
-  2026-11-18); crafted progress 18,450 / 35,000. Collect-only in chores.
+- Forge (Clan Capital): free collect on cooldown (22h53m at
+  2026-11-18 12:11 PT -> next ready ~Nov 19 late morning); Capital Gold
+  storage 19,150; crafted progress 18,450 / 35,000. Collect-only in
+  chores. Route: zoom fully out, bottom edge, right of the airship.
 - Trader Weekly Deals: reset in ~5d (seen 2026-11-18); the FREE 10
   Glowy Ore is claimed (0/1, done before the seat's first pass — likely
   JJ). Claim 0-cost items only, every tab, each weekly reset.
 - Gold Pass (Clash of Titans season, ends in ~12d): NOT purchased
   (free track only). Points 840 (2026-11-18), Task Card 9/20. Claimed:
   600,000 Elixir (2026-11-18). Next: chest at 880, 10,000 DE at 940.
-- Clock Tower (BB, L10): free boost available 2026-11-18 (10x, 32m,
-  22h cooldown). Chores activates it when off cooldown; log the time.
+- Clock Tower (BB, L10): boost ACTIVE at 2026-11-18 12:11 PT close
+  (~1h26m left as read). Free boost = 10x for 32m per the dialog, 22h
+  cycle. Chores activates it when off cooldown; log the time.
+- Builder Base balances (2026-11-18): 3,110,664 G / 2,073,340 E.
 - Dishes: tray seen 2026-11-18 — 1 active (~33m left), 2 more expiring
   in ~24h. Dish use is JJ's; seats never consume inside attack runs.
 - Star Bonus: 2 of 5 stars lit (seen 2026-11-18); Treasury accrual

@@ -101,3 +101,5 @@ Use the CURRENT ATTACK RUNBOOK at the top of ATTACK-PLAN.md, not the historical 
 - Idle disconnect ("Anyone there?") happens after a long pause: tap RELOAD GAME, then zoom out again.
 - Scroll picker lists from empty margins, no batched clicks across popovers, never press Upgrade on a map selection unless intended.
 - Lab: inside the walls east of the Clan Castle, marked by a research timer bar; tap the building, read the label, Research button opens the status.
+
+- Route (2026-11-18, Sol #35): the Forge (Clan Capital) is found by zooming fully out — bottom edge of the view, just right of the Clan Capital airship.

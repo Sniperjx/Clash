@@ -1,3 +1,10 @@
+# LATEST VERIFIED STATE - #35 Sol (GPT seat), 2026-11-18 ~12:11 PM PT (supersedes the blocks below; session closed, filed by Fin from the seat's chat reports)
+- Home: 3,290,486 gold / 1,809,377 elixir / 6,892 DE / 2,424 gems. Builders 6/6 BUSY: Multi-Gear Tower (~1h at refresh), Dragon Duke ->8 (~1h32m), Firespitter (~7h), Clan Castle (~1d1h), Ricochet Cannon merge (7d, started #35), Army Camp #2 ->13 (7d, started #35 at verified 14.5M E). Lab 15: Ice Block Spell 3 running (~2d). Pet House: Phoenix 2->3 running (started #35, 95k DE, 2d). Treasury banked 1.4M G / 1.4M E / 7k DE (NOT collected).
+- Ledger audit #35: refresh -> 3 starts (Phoenix 95k DE, Ricochet 12M G, Camp #2 14.5M E) -> 1 claim (+600k E pass reward) reconciles EXACTLY to the closing balances. Camp post-Jam price verified 14.5M E (the 17M x2 heuristic overshot).
+- Builder Base (look-only at close): 3,110,664 gold / 2,073,340 elixir. Clock Tower L10 boost ACTIVE at close (~1h26m left as read by the seat).
+- Pass (Clash of Titans, free track): 840 points, Task Card 9/20; next chest 880, 10k DE at 940. Forge: free collect on cooldown 22h53m at close (JJ collected while playing); Capital Gold storage 19,150, crafted progress 18,450/35,000. Trader free Glowy Ore claimed (0/1).
+- Seats: Sol and Sonnet interchangeable (JJ 2026-11-18); COMMANDS.md routines live (chores/attacks/upgrades/status/full run); TRACKER.md is the passes/challenges memory. GPT usage %s were not available in the #35 session.
+
 # UPDATE - JJ started upgrades (2026-11-14 afternoon, from JJ screenshot; supersedes Home balances in the #23 block)
 - Home now 269,407 gold / 3,212,267 elixir / 44,393 DE / 2,854 gems (JJ spent ~18M gold, ~9.5M elixir). In progress: Archer Tower 2h29m, Giant Bomb 5h59m, Dragon Duke 23h59m, Multi-Gear Tower 3d23h, Firespitter 4d5h, Clan Castle 4d23h. Builders: not re-read by Scout. Clan Castle upgrading may affect CC availability for attacks. SESSION-LOG #26.
 # LATEST VERIFIED STATE - #23 Scout (Claude seat), 2026-11-14 ~12:45 PM PT (supersedes the blocks below; game is OPEN, JJ present)
