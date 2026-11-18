@@ -401,3 +401,6 @@ Army: 12 Dragon 11 / 2 Rider 5 / 7 Balloon 11, 4 Rage 6 / 3 Freeze 7, Stone Slam
 - JJ signed up himself (owner act) and delegated management: "manage that please." CHARTER amended: Ranked Battles are now a standing seat duty under Fin (the "ranked" command in COMMANDS); War/CWL/Capital remain Tier 3. Seats never sign up for anything — the sign-up was JJ's.
 - Ranked defense = the ACTIVE home layout ("Ranked Defense" slot) — JJ's Hybrid 1 import is now also his ranked defense.
 - First ranked session is a PROBE (in Scout's list): read the info panels, fly one battle, report mechanics (battles/cycle, defense CC handling, army source) before Fin sets the standing routine.
+
+## #38 addendum — bases applied by JJ (2026-11-18 ~13:22 PT)
+JJ applied all three bases himself on his phone (main / war / ranked-defense) after the slot-3 activation block (obstacle-stashed buildings). Scout's place-around task is CANCELLED — no seat touches the layouts now. Remaining seat step is a look-only end-state read for the record (active slots, any unplaced items left, spell-tower settings) folded into Scout's session when convenient; towers/cone adjustments only if that read shows them unset.
