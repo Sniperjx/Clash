@@ -61,6 +61,15 @@ spends, starts, or claims.
 chores -> upgrades -> attacks, in that order, one session. This is the
 default when JJ just says to run the account.
 
+## "ranked"
+Fly the cycle's Ranked Battles (JJ's standing grant, CHARTER 2026-11-18).
+Ranked is a ladder, not farming: the loot floor does NOT apply, there is no
+target shopping — the objective is stars and destruction for rank. Army:
+the current recipe army. First session is a probe: read the ranked info
+panels, fly ONE battle, report the mechanics (battles per cycle, defense
+setup, CC handling) before the routine is set. Every ranked battle reported
+to Fin with its cycle deadline in view (first cycle ends ~2026-11-22/23).
+
 ## Hard rails (every command, no exceptions)
 No gems spent, no money, no Ranked sign-up, no event obstacles, no clan
 social actions, no boost items inside attack runs, no CC payload requests.

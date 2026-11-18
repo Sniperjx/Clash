@@ -21,6 +21,7 @@ earns nothing here, only logged results do.
 | **1 — Housekeeping** | Train/change saved armies; donate troops (when a request is visible and the requested troop is known); Practice attacks; Friendly Challenges; single-player (goblin) maps; start upgrades **on the PRIORITIES queue** when a builder is free and resources suffice; Lab research on the queue | Navigation reliability: 3 consecutive chore sessions with zero wrong-screen errors logged, + read PLAYBOOK/LESSONS. |
 | **2 — Farming attacks** | Multiplayer **Battles** (non-ranked) attacks for loot with the approved army; may surrender a lost attack to save time/heroes | Benchmark gate B2 (BENCHMARKS.md): practice standard met across 5 logged attempts. |
 | **3 — Stakes (JJ-gated)** | War/CWL attacks, Ranked/Legends attacks, Clan Capital raid attacks, spending Magic Items, starting **off-queue** upgrades, Builder Base versus battles for trophies | **Never self-granted.** JJ says yes per era/season. Log his yes in this file with the date. |
+| **Ranked grant (JJ, 2026-11-18)** | JJ signed the account up for Ranked himself and delegated its management to the system ("manage that please"). Ranked Battles are therefore a STANDING seat duty under Fin's management (the "ranked" command), no longer per-era gated. The sign-up was JJ's own act; seats never sign up for anything. War/CWL/Capital remain Tier 3 as written. | Logged here per the Tier 3 rule, 2026-11-18. |
 
 Current tier status (update this table as evidence lands):
 
@@ -41,7 +42,7 @@ Current tier status (update this table as evidence lands):
   demoting anyone, no leaving the clan, no changing clan settings, no friend requests.
   Donating a requested troop is the only clan interaction allowed (Tier 1+).
 - **Never change account settings,** name, Supercell ID, or linked devices.
-- **Never attack in War/CWL/Ranked/Legends** without Tier 3 (JJ's logged yes).
+- **Never attack in War/CWL/Legends** without Tier 3 (JJ's logged yes). Ranked Battles are covered by JJ's standing grant of 2026-11-18 (above).
 - **Never start an upgrade that isn't on the PRIORITIES queue** without Tier 3.
 - If the game shows something you don't understand — a new dialog, a confirmation you
   didn't expect, a purchase screen — **stop, screenshot/note it in the log, and back out.**
