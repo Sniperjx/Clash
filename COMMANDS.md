@@ -11,12 +11,22 @@ mis-taps, prices). That loop is how the seats get better at these.
 The full collection circuit, no battles:
 1. Home Village: tap all collectors; Loot Cart if present; Treasury read
    (collect only to fund a same-session start, slot verified first).
-2. Builder Base: collectors + Gem Mine; clear NORMAL obstacles only.
-   (Main-base obstacles are NOT cleared by this routine — JJ, 2026-11-18.
-   Event obstacles are never cleared anywhere, ever — hard rail.)
-3. Claims sweep, everything free, all logged: Daily Tasks, Gold Pass free
-   track, Season Challenges rewards, event free tracks, achievement
-   rewards (claiming earned gems is fine; SPENDING gems never is).
+2. Builder Base: activate the Clock Tower FREE boost when it is off
+   cooldown (free activation only — the gem and potion boost options are
+   never touched), then collectors + Gem Mine; clear NORMAL obstacles
+   only. (Main-base obstacles are NOT cleared by this routine — JJ,
+   2026-11-18. Event obstacles are never cleared anywhere, ever — hard
+   rail.) Log the boost time in TRACKER (22h cooldown).
+3. Forge: collect any ready Capital Gold (the auto-production slot).
+   Never start a new craft, never unlock a slot, never Boost Builders —
+   crafting spends home-village loot and is an upgrades/Fin decision.
+4. Claims sweep, everything free, all logged: Daily Tasks, Gold Pass free
+   track (incl. Season Task Card progress), Season Challenges rewards,
+   event free tracks, achievement rewards (claiming earned gems is fine;
+   SPENDING gems never is), and the Trader's Weekly Deals — claim every
+   0-cost item in every tab (the free Glowy Ore is the standing example;
+   glowy is the pinch ore). Anything with a price — gems, money, raid
+   medals — is not a chore and is never bought.
 4. Update TRACKER.md: pass tiers/points, unclaimed rewards, challenges
    remaining, Star Bonus status, what was collected (totals).
 Choice nodes: seat decides, logs the pick. Paid tracks / gem offers: never.
