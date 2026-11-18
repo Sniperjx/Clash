@@ -1,3 +1,6 @@
+# UPDATE - #36 army test (2026-11-18 ~12:29 PT, Sol; details SESSION-LOG #36)
+- Home: 6,461,738 gold / 5,265,722 elixir / 41,027 DE / 2,424 gems. Treasury 2.8M G / 2.8M E / 14k DE (Star Bonus landed). Three standalone 325-mix battles: 100/3, 85/2, 40/0 (avg 75.0%). Stone Slammer L4 availability verified by use. Builders/Lab/Pet House unchanged from the #35 block (all busy).
+
 # LATEST VERIFIED STATE - #35 Sol (GPT seat), 2026-11-18 ~12:11 PM PT (supersedes the blocks below; session closed, filed by Fin from the seat's chat reports)
 - Home: 3,290,486 gold / 1,809,377 elixir / 6,892 DE / 2,424 gems. Builders 6/6 BUSY: Multi-Gear Tower (~1h at refresh), Dragon Duke ->8 (~1h32m), Firespitter (~7h), Clan Castle (~1d1h), Ricochet Cannon merge (7d, started #35), Army Camp #2 ->13 (7d, started #35 at verified 14.5M E). Lab 15: Ice Block Spell 3 running (~2d). Pet House: Phoenix 2->3 running (started #35, 95k DE, 2d). Treasury banked 1.4M G / 1.4M E / 7k DE (NOT collected).
 - Ledger audit #35: refresh -> 3 starts (Phoenix 95k DE, Ricochet 12M G, Camp #2 14.5M E) -> 1 claim (+600k E pass reward) reconciles EXACTLY to the closing balances. Camp post-Jam price verified 14.5M E (the 17M x2 heuristic overshot).

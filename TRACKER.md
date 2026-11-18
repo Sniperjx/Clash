@@ -31,7 +31,9 @@ Fields marked UNREAD are filled by the first run that reaches them.
   cycle. Chores activates it when off cooldown; log the time.
 - Builder Base balances (2026-11-18): 3,110,664 G / 2,073,340 E.
 - Dishes: tray seen 2026-11-18 — 1 active (~33m left), 2 more expiring
-  in ~24h. Dish use is JJ's; seats never consume inside attack runs.
+  in ~24h. Chest rewards 2026-11-18 (#36): +3 Clan Castle Slices,
+  +1 Power Pancakes to Temporary Storage, none activated. Dish use is
+  JJ's; seats never consume inside attack runs.
 - Star Bonus: 2 of 5 stars lit (seen 2026-11-18); Treasury accrual
   UNREAD
 - Raid Weekend: tracked only — seats do not enter (no grant)
