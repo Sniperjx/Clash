@@ -400,3 +400,12 @@ Hero dial-in for the recipe (by NAME — icon inference caused the Frosty ghost 
 - Grand Warden: pet Electro Owl; equipment Eternal Tome + Fireball; mode AIR (set on the hero, verified at loadout)
 - Royal Champion: pet Diggy; equipment Rocket Spear + Electro Boots
 - Minion Prince: equipment Henchmen Puppet + Dark Orb; pet — record of record says NONE assigned, but JJ's 2026-11-18 recipe screenshot shows a pink jelly (Angry Jelly?) in his slot. Seat verifies BY NAME: if Angry Jelly is genuinely assigned, keep it (an assigned pet beats an empty slot; do not picker-dive to change it — #28 swap incident). If the slot is actually empty, leave it empty and report.
+
+## Saved Recipe ARMY 1 — AS BUILT (JJ screenshot, 2026-11-18 ~12:10 PT; supersedes the spec above where they differ)
+JJ overrode the empty CC/siege instruction (owner's call; logged per the precedence rule). As built:
+- Troops 325/325: 12x Dragon 11, 2x Dragon Rider 5, 7x Balloon 11 — matches spec
+- Spells 11/11: 4x Rage 6, 3x Freeze 7 — matches spec
+- Heroes 4/4 with the dialed pets/equipment (Warden card shows the AIR wing icon); MP's pink jelly pet present again — name still to be verified by a seat
+- Siege slot 1/3: 1x BATTLE BLIMP L4 — the account's records said no Blimp was trained; a selectable L4 Blimp exists (owned vs donated UNVERIFIED — Workshop/CC read owed next session; this may already solve Series D's Blimp blocker)
+- CC section filled: troops 50/50 = 2x Dragon Rider; spells 3/3 = 1x Rage + 1x Freeze; siege row 2/2 = the Blimp + a second machine (wooden/rotor icon — name unverified, do not icon-guess)
+Trial conditions are unchanged: a block that specifies no CC/siege still deploys without them — the recipe carrying them does not deploy them by itself. Seat requests of CC donations remain governed by the parked JJ ruling until JJ rules otherwise.
