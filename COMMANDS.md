@@ -36,8 +36,12 @@ Run the current attack package (ATTACK-PLAN: S1-B Narrow, Army 1 preset)
 for N real multiplayer battles (default: work the current block, max 5).
 Standing package rules apply: zoom-out before deploying, open-grass edge,
 Freeze on the engaging threat, stop rules (two straight 0-stars or >2
-deployment misses = pause + report). DE-rich targets preferred inside the
-rubric while Phoenix is unfunded. Every battle reported to Fin as it lands.
+deployment misses = pause + report). Every battle reported to Fin as it lands.
+LOOT FLOOR RULE (JJ, 2026-11-18 — binding on all seat-run attacks): attack
+only bases offering >= 600k Gold AND >= 600k Elixir, OR >= 8,000 Dark Elixir
+(the DE override). A resource within ~2M of its storage cap does not count
+toward the floor. Next past anything below the floor; after 10 Nexts take
+the best base seen. Full basis in ATTACK-PLAN (loot floor ruling).
 Until a seat passes B2 these fly under trial conditions and are logged
 per operator; they are also how DE and loot get farmed.
 
