@@ -435,3 +435,10 @@ JJ applied all three bases himself on his phone (main / war / ranked-defense) af
 - Helpers row per screenshot: Lab Assistant L1, Builder's Apprentice L8, Alchemist L6, and a FOURTH helper slot, locked on this account [name unknown — TH19-era addition, unverified].
 - Partial resource reads (panel cut off leading digits): Gold ...46,812 / Elixir ...64,658 / DE ...0,285 — full refresh belongs to Scout's STATE close-out.
 - Note for the gold track: the Alchemist is now a live DE->Gold lever (150:1 +9%) against the Firespitter #2 gap — but DE is the pet-chain currency, so any conversion is JJ's call, never a seat's.
+
+## #41 — 2026-11-18 (Sol full-day attack report, JJ-pasted; Fin-audited)
+- Full report filed as ARMY-TEST-2026-11-18.md. 22 attacks on the day (morning standalones + #36 + the JJ-extended run): 19 wins, 41 stars, 73.4% avg, battle loot 15,288,246 G / 18,167,483 E / 146,814 DE (before league/Star bonuses).
+- FIN AUDIT: all totals re-sum EXACTLY from the rows; every independently checkable row (7 of 7 — #36 trio, tetom, Lord Hades, efqie04, Mr Smith) matches the Attack Log / verified sessions to the digit. Army 1 portion: 18 completed battles at 80.1% avg, 6 triples.
+- NOT a B2 result: JJ-directed live play, conditions varied (early battles pre-recipe; later battles carried CC spells — 5 Rage/4 Freeze rows). No tier changes. Sol's reporting record is now the strongest of any seat (7/7 exact).
+- Mr Smith CLOSED: Sol attributes the interrupted AQ-only attempt to his own run; consistent with Scout's log read.
+- OPEN QUESTION for the STATE refresh: JJ's 14:48 screenshot cropped the gold balance's leading digits ("...46,812"). If it reads ~23.4M, Firespitter #2 (17M) is affordable tonight when Firespitter #1's builder frees — and the staged 50,000 DE -> 8,175,000 G Alchemist conversion on his screen suggests a conversion may already have moved the gold. Scout's close-out balance read settles both.
