@@ -405,3 +405,8 @@ Army: 12 Dragon 11 / 2 Rider 5 / 7 Balloon 11, 4 Rage 6 / 3 Freeze 7, Stone Slam
 ## #38 addendum — bases applied by JJ (2026-11-18 ~13:22 PT)
 JJ applied all three bases himself on his phone (main / war / ranked-defense) after the slot-3 activation block (obstacle-stashed buildings). Scout's place-around task is CANCELLED — no seat touches the layouts now. Remaining seat step is a look-only end-state read for the record (active slots, any unplaced items left, spell-tower settings) folded into Scout's session when convenient; towers/cone adjustments only if that read shows them unset.
 - JJ (13:22 PT): "Skip the bases, they're fine." Base verification read CANCELLED — the bases are closed as JJ-applied and JJ-accepted, no seat read or report owed on them.
+
+## #38 trigger-check (Scout, 2026-11-18 ~13:25 PT) — Squad Barracks started
+- Priority check stated first, per rule: Firespitter #2 menu-verified 17.0M G / 10d vs 13.13M on hand — OUT OF REACH; no competing gold started. Next merges also out of reach (Ricochet #2 17.5M, Multi-Archer #3 17.5M, Multi-Gear L2 18M, Spell Tower 17M — merge prices escalate; first Ricochet was 12M).
+- Fin ruling on Scout's pick: APPROVED. Squad Barracks started (1.7M E, 2d) — spends elixir, unlocks the Squads mechanic for the system's TH19 reads, gold line to 17M untouched. Contingency pre-approved: if a second builder frees in-session, Archer Tower L10 (460k G, 6h) is the filler start.
+- DE 12k — no hero/pet start possible, correctly skipped.
