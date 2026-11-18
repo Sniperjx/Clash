@@ -18,6 +18,11 @@ reading which account is signed in is a look-only read any seat may do
 itself. When one pool is dry, JJ opens the other seat; when both are dry,
 the queue parks and Fin's oversight notes it once.
 
+## Commands
+JJ runs the account with one-line orders defined in COMMANDS.md
+(chores / attacks / upgrades / status / full run). Passes, challenges,
+and unclaimed rewards are tracked in TRACKER.md, updated every run.
+
 ## Session shapes
 - **Seat session (the only game shape):** JJ opens Sol or Sonnet; the seat
   refreshes state -> works the queue top-down -> logs + updates STATE ->
